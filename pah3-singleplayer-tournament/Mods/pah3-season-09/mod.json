@@ -3,11 +3,12 @@
 	"description" : "Submods required for each map of season 9 of the tournament and starting saves",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw#1628 on heroes-themed Discords",
-	"version" : "9.1",
+	"version" : "9.1.1",
 	"modType" : "Other",
     "changelog" :
     {
-        "9.1"   : [ "initial release", "Map 1 of season 9"]
+        "9.1"   : [ "initial release", "Map 1 of season 9"],
+        "9.1.1"   : [ "fixed map 1 saves", "added hota-tow patch dependency to map 1" ]
     },
 
 	"compatibility" :
