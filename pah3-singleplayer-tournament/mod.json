@@ -3,11 +3,12 @@
 	"description" : "Submods required for each map in each season of the tournament and starting saves",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw#1628 on heroes-themed Discords",
-	"version" : "9.1",
+	"version" : "9.1.1",
 	"modType" : "Other",
     "changelog" :
     {
-        "9.1"   : [ "initial release", "Map 1 of season 9"]
+        "9.1"   : [ "initial release", "Map 1 of season 9"],
+        "9.1.1"   : [ "minor fixes in s9m1" ]
     },
 
 	"compatibility" :
