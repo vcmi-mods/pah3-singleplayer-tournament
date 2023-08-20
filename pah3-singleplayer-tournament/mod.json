@@ -1,14 +1,15 @@
 {
 	"name" : "PAH3 Singleplayer Tournament",
-	"description" : "Submods required for each map in each season of the tournament and starting saves",
+	"description" : "Submods required for each map in each season of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread on the Behemoth's Lair",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw#1628 on heroes-themed Discords",
-	"version" : "9.1.1",
+	"version" : "9.1.2",
 	"modType" : "Other",
     "changelog" :
     {
         "9.1"   : [ "initial release", "Map 1 of season 9"],
-        "9.1.1"   : [ "minor fixes in s9m1" ]
+        "9.1.1"   : [ "minor fixes in s9m1" ],
+        "9.1.2"   : [ "added links to the tournament communication channels" ]
     },
 
 	"compatibility" :
