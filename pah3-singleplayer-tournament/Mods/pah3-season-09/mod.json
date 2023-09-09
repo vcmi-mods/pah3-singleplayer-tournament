@@ -1,16 +1,17 @@
 {
-	"name" : "PAH3 Singleplayer Tournament, season 9",
+	"name" : "PAH3 Season 9",
 	"description" : "Submods required for each map of season 9 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5386",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw#1628 on heroes-themed Discords",
-	"version" : "9.1.3",
+	"version" : "9.2",
 	"modType" : "Other",
     "changelog" :
     {
         "9.1"   : [ "initial release", "Map 1 of season 9"],
         "9.1.1"   : [ "fixed map 1 saves", "added hota-tow patch dependency to map 1" ],
         "9.1.2"   : [ "added links to the tournament communication channels" ],
-        "9.1.3"   : [ "added link to the Polish communication channel in Behemoth's Lair, forgotten in last update" ]
+        "9.1.3"   : [ "added link to the Polish communication channel in Behemoth's Lair, forgotten in last update" ],
+        "9.2"   : [ "added map 2", "shortened submod names" ]
     },
 
 	"compatibility" :
