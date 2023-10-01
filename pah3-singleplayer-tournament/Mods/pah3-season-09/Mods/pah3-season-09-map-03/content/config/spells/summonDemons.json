@@ -1,0 +1,18 @@
+{
+	"core:summonDemons" :
+	{
+		"levels" :
+		{
+			"base" :
+			{
+				"battleEffects" :
+				{
+					"demonSummon" :
+					{
+						"id" : "ogre"
+					}
+				}
+			}
+		}
+	}
+}

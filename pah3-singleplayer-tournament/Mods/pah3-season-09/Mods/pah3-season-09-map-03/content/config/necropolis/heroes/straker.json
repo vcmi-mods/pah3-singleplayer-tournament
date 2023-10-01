@@ -1,0 +1,53 @@
+{
+	"core:straker" :
+	{
+		"specialty" :
+		{
+			"bonuses" :
+			{
+				"ghost2pump" :
+				{
+					"type" : "SPECIAL_UPGRADE",
+					"subtype" : "creature.mdtGhost",
+					"addInfo" : "creature.5a"
+				},
+				"ogre2pump" :
+				{
+					"type" : "SPECIAL_UPGRADE",
+					"subtype" : "creature.ogre",
+					"addInfo" : "creature.5a"
+				},
+				"ogrem2pump" :
+				{
+					"type" : "SPECIAL_UPGRADE",
+					"subtype" : "creature.ogreMage",
+					"addInfo" : "creature.5a"
+				},
+				"pump2ghost" :
+				{
+					"type" : "SPECIAL_UPGRADE",
+					"subtype" : "creature.5a",
+					"addInfo" : "creature.mdtGhost"
+				},
+				"uppump2ghost" :
+				{
+					"type" : "SPECIAL_UPGRADE",
+					"subtype" : "creature.5b",
+					"addInfo" : "creature.mdtGhost"
+				},
+				"ogre2ghost" :
+				{
+					"type" : "SPECIAL_UPGRADE",
+					"subtype" : "creature.ogre",
+					"addInfo" : "creature.mdtGhost"
+				},
+				"ogrem2ghost" :
+				{
+					"type" : "SPECIAL_UPGRADE",
+					"subtype" : "creature.ogreMage",
+					"addInfo" : "creature.mdtGhost"
+				}
+			}
+		}
+	}
+}

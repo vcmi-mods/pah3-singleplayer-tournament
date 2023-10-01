@@ -1,0 +1,59 @@
+{
+	"core:moandor" :
+	{
+		"specialty" :
+		{
+			"bonuses" :
+			{
+				"ORC_HEALTH" :
+				{
+					"type" : "STACK_HEALTH",
+					"val" : 5,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:orc", false ]
+						}
+					]
+				},
+				"ORCCHIEF_HEALTH" :
+				{
+					"type" : "STACK_HEALTH",
+					"val" : 5,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:orcChieftain", false ]
+						}
+					]
+				},
+				"OGRE_HEALTH" :
+				{
+					"type" : "STACK_HEALTH",
+					"val" : -10,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:ogre", false ]
+						}
+					]
+				},
+				"OGREMAGE_HEALTH" :
+				{
+					"type" : "STACK_HEALTH",
+					"val" : -10,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:ogreMage", false ]
+						}
+					]
+				}
+			}
+		}
+	}
+}

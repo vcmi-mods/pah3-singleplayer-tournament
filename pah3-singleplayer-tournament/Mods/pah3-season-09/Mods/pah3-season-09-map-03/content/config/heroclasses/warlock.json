@@ -1,0 +1,19 @@
+{
+	"core:warlock" :
+	{
+		"lowLevelChance" :
+		{
+			"attack"     : 0,
+			"defence"    : 0,
+			"spellpower" : 100,
+			"knowledge"  : 0
+		},
+		"highLevelChance" :
+		{
+			"attack"     : 0,
+			"defence"    : 0,
+			"spellpower" : 100,
+			"knowledge"  : 0
+		}
+	}
+}

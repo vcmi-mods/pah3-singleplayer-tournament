@@ -1,0 +1,19 @@
+{
+	"core:cleric" :
+	{
+		"lowLevelChance" :
+		{
+			"attack"     : 0,
+			"defence"    : 100,
+			"spellpower" : 0,
+			"knowledge"  : 0
+		},
+		"highLevelChance" :
+		{
+			"attack"     : 0,
+			"defence"    : 0,
+			"spellpower" : 0,
+			"knowledge"  : 100
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"core:berserk" :
+	{
+		"levels" :
+		{
+			"base" :
+			{
+				"battleEffects" :
+				{
+					"berserkCurse" :
+					{
+						"type" : "core:timed",
+						"cumulative" : false,
+						"bonus" :
+						{
+							"berserkRage" :
+							{
+								"type" : "ATTACKS_NEAREST_CREATURE",
+								"duration" :
+								[
+									"UNTIL_ATTACK",
+									"N_TURNS"
+								]
+							},
+							"decreaseDamage" :
+							{
+								"type" : "CREATURE_DAMAGE",
+								"subtype" : 0,
+								"val" : -50,
+								"valueType" : "PERCENT_TO_ALL",
+								"duration" :
+								[
+									"UNTIL_ATTACK",
+									"N_TURNS"
+								]
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
