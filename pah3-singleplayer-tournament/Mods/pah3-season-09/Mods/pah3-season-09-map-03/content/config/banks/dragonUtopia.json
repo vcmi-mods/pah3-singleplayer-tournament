@@ -1,0 +1,56 @@
+{
+	"core:dragonUtopia" : {
+		"types" : {
+			"dragonUtopia" : {
+				"levels": [
+					{
+						"chance": 50,
+						"guards": [
+							{ "amount": 8, "type": "greenDragon" },
+							{ "amount": 5, "type": "redDragon" },
+							{ "amount": 2, "type": "goldDragon" },
+							{ "amount": 1, "type": "blackDragon" }
+						],
+						"combat_value": 769,
+						"reward" : {
+							"value": 38000,
+							"resources":
+							{
+								"gold" : 20000
+							},
+							"artifacts": [
+								{ "class" : "TREASURE" },
+								{ "class" : "MINOR" },
+								{ "class" : "MAJOR" },
+								{ "class" : "RELIC" }
+							]
+						}
+					},
+					{
+						"chance": 50,
+						"guards": [
+							{ "amount": 12, "type": "redDragon" },
+							{ "amount": 12, "type": "blackDragon" },
+							{ "amount": 10, "type": "rustDragon" },
+							{ "amount": 10, "type": "azureDragon" }
+						],
+						"combat_value": 343,
+						"reward" : {
+							"value": 90000,
+							"resources":
+							{
+								"gold" : 50000
+							},
+							"artifacts": [
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" },
+								{ "class" : "RELIC" }
+							]
+						}
+					}
+				]
+			}
+		}
+	}
+}

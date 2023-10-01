@@ -1,0 +1,19 @@
+{
+	"core:wizard" :
+	{
+		"lowLevelChance" :
+		{
+			"attack"     : 0,
+			"defence"    : 0,
+			"spellpower" : 0,
+			"knowledge"  : 100
+		},
+		"highLevelChance" :
+		{
+			"attack"     : 0,
+			"defence"    : 0,
+			"spellpower" : 100,
+			"knowledge"  : 0
+		}
+	}
+}

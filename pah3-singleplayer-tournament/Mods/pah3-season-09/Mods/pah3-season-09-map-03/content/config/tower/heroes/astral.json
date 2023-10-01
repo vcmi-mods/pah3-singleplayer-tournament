@@ -1,0 +1,22 @@
+{
+	"core:astral" :
+	{
+		"specialty" :
+		{
+			"bonuses" :
+			{
+				"GARGOYLE_NORETAL" :
+				{
+					"type" : "BLOCKS_RETALIATION",
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:stoneGargoyle", false ]
+						}
+					]
+				}
+			}
+		}
+	}
+}

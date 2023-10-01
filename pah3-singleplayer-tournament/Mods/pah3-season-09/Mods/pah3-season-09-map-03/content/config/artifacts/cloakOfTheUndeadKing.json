@@ -1,0 +1,29 @@
+{
+	"core:cloakOfTheUndeadKing" :
+	{
+		"bonuses" :
+		[
+			
+			{
+				"type" : "IMPROVED_NECROMANCY",
+				"subtype" : "creature.zombie",
+				"addInfo" : 0
+			},
+			{
+				"type" : "IMPROVED_NECROMANCY",
+				"subtype" : "creature.orc",
+				"addInfo" : 1
+			},
+			{
+				"type" : "IMPROVED_NECROMANCY",
+				"subtype" : "creature.pitFiend",
+				"addInfo" : 2
+			},
+			{
+				"type" : "IMPROVED_NECROMANCY",
+				"subtype" : "creature.7a",
+				"addInfo" : 3
+			}
+		]
+	}
+}
