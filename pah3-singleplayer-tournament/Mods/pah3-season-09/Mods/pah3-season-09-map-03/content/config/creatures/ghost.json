@@ -1,0 +1,14 @@
+{
+	"tides-of-war:mdtGhost" :
+	{
+		"abilities" :
+		{
+			"soulEater" : 
+			{ 
+				"type" : "SOUL_STEAL",
+				"subtype" : 1,
+				"val" : 1
+			}
+		}
+	}
+}

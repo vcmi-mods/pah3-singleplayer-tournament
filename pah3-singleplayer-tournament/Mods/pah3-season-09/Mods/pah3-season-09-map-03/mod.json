@@ -1,9 +1,9 @@
 {
 	"name" : "PAH3 s09 Map 3",
-	"description" : "Submods required for map 3 of season 9 of the tournament and starting saves<br>Pit Lords raise Ogres instead of Demons<br>Berserk also halves the target's damage<br>Straker upgrades Ogres, Pumpkins and Ghosts into Ghosts and Pumpkins in addition to Zombie specialty<br>Moandor Gives his Orcs +5 health and Ogres -10 health in addition to Lick specialty<br>Cloak of the Undead King raises Walking Deads/Orcs/Pit Fiends/Potatoes instead of Skeletons/Walking Deads/Wights/Liches<br>You can build 5 buildings per turn in each town instead of 1<br>High Attack/Defense efective cap effectively removed<br>Morale and Luck caps removed<br>Astral gives Stone Gargoyles no retaliation to evade game crash in the fight vs the Magic Dragon<br>All heroes gain fixed Primary Skill on level-ups",
+	"description" : "Submods required for map 3 of season 9 of the tournament and starting saves<br>Pit Lords raise Ogres instead of Demons<br>Berserk also halves the target's damage<br>Straker upgrades Ogres, Pumpkins and Ghosts into Ghosts and Pumpkins in addition to Zombie specialty<br>Moandor and Astral give their Orcs +5 health and Ogres -10 health in addition to their standard specialties<br>Cloak of the Undead King raises Walking Deads/Orcs/Pit Fiends/Potatoes instead of Skeletons/Walking Deads/Wights/Liches<br>You can build 5 buildings per turn in each town instead of 1<br>High Attack/Defense efective cap effectively removed<br>Morale and Luck caps removed<br>All heroes gain fixed Primary Skill on level-ups<br>Maxi utopia is scarier",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw#1628 on heroes-themed Discords",
-	"version" : "9.3",
+	"version" : "9.3.1",
 	"modType" : "Other",
 	
  	"depends" : 
@@ -69,6 +69,10 @@
 	[
 		"config/banks/dragonUtopia.json"
 	],
+	"creatures" :
+	[
+		"config/creatures/ghost.json"
+	],
 	"settings" :
 	{
 		"towns" :
@@ -87,7 +91,8 @@
 	},
     "changelog" :
     {
-        "9.3"   : [ "initial release", "Added mod dependencies", "aded conflicts with map 1 and 2 mods" ]
+        "9.3"   : [ "initial release", "Added mod dependencies", "aded conflicts with map 1 and 2 mods" ],
+        "9.3.1"   : [ "fix starting saves", "Astral gets same specialty bonus as Moandor instead of no retal for Gargoyles, because Hypnotize already gives no retal", "Other small fixes" ]
     },
 
 	"compatibility" :
