@@ -1,0 +1,19 @@
+{
+	"core:bootsOfSpeed":
+	{
+		"bonuses" : [
+			{
+				"type" : "MOVEMENT",
+				"subtype" : 1,
+				"val" : 400,
+				"valueType" : "ADDITIVE_VALUE"
+			},
+			{
+				"type" : "MOVEMENT",
+				"subtype" : 0,
+				"val" : 1000,
+				"valueType" : "ADDITIVE_VALUE"
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"tides-of-war:mdtQuetzalcouatl" :
+	{
+		"abilities" :
+		{
+			"SLOW_IMMUNE" : 
+			{ 
+				"type" : "SPELL_IMMUNITY",
+				"subtype" : "spell.slow",
+				"addInfo" : 0
+			}
+		}
+	}
+}

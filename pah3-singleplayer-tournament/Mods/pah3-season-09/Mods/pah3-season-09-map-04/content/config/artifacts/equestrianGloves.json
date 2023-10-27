@@ -1,0 +1,19 @@
+{
+	"core:equestriansGloves":
+	{
+		"bonuses" : [
+			{
+				"type" : "MOVEMENT",
+				"subtype" : 1,
+				"val" : 200,
+				"valueType" : "ADDITIVE_VALUE"
+			},
+			{
+				"type" : "MOVEMENT",
+				"subtype" : 0,
+				"val" : 500,
+				"valueType" : "ADDITIVE_VALUE"
+			}
+		]
+	}
+}

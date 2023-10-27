@@ -1,0 +1,123 @@
+{
+	"name" : "PAH3 s09 Map 4",
+	"description" : "Submods required for map 4 of season 9 of the tournament and starting saves<br>Boots give 400 land movement or 1000 sea movement<br>Gloves give 200 land movement or 500 sea movement<br>Base sea movement is same as base land moevement<br>This is done to prevent Admiral's Hat abuse in case one appears on the map<br>Map translated to English<br>Day 1 and 2 events mooved to days 2 and 3 because there are no day 1 events in the starting save<br>Starting AI heroes boosted a little bit to help AI decide that they should be main heroes<br>Main AI heroes boost Cyclops stats in addition to their existing specialties<br>Titan's Gladius adds Chain Lightning on hit and Czajnik decreases Morale and Luck in addition to their standard effects<br>Archery artifacts give same bonuses as Basic/Advanced/Expert Archery<br>All heroes gain experience twice as fast<br>Stronghold units are immune to Slow<br>2 buildings per turn per town allowed<br>Morale, Luck, high Defense and high Attack bonus caps lifted",
+	"author" : "Warzyw647",
+	"contact" : "Warzyw#1628 on heroes-themed Discords",
+	"version" : "9.4",
+	"modType" : "Other",
+	
+ 	"depends" : 
+	[
+		"hota",
+		"vcmi-extras",
+		"zefix",
+		"new-old-spells-plus",
+		"tides-of-war",
+		"tides-of-war.hota-balance-compatibility-patch"
+	],
+	"conflicts" : 
+	[
+		"andruids-spell-balance",
+		"an-expansion",
+		"magic-fader",
+		"forge",
+		"forge2k",
+		"wake-of-gods",
+		"invisible-man",
+		"undead-sphinxes",
+		"greenhouse-town",
+		"combine-grail"
+	],
+    "changelog" :
+    {
+        "9.4"   : [ "initial release", "Added mod dependencies", "aded conflicts with map 1, 2 and 3 mods" ]
+    },
+	"settings" :
+	{
+		"towns" :
+		{
+			"buildingsPerTurnCap" : 2
+		},
+		"combat" :
+		{
+			"goodMoraleDice" : [ 24, 12, 8, 6, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1 ],
+			"badMoraleDice" : [ 12, 6, 4, 3, 3, 2, 2, 2, 2, 2, 2, 1 ],
+			"goodLuckDice" : [ 24, 12, 8, 6, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1 ],
+			"badLuckDice" : [ 12, 6, 4, 3, 3, 2, 2, 2, 2, 2, 2, 1 ],
+			"attackPointDamageFactorCap": 4000.0,
+			"defensePointDamageFactorCap": 0.99
+		},
+		"bonuses" : 
+		{
+			"perHero":
+			{
+				"experienceGain" : 
+				{
+					"type" : "HERO_EXPERIENCE_GAIN_PERCENT", //double hero xp
+					"val" : 200,
+					"valueType" : "BASE_NUMBER"
+				},
+				"seaMovement" :
+				{
+					"type" : "MOVEMENT", //Basic sea movement same as land
+					"subtype" : 0,
+					"val" : 1300,
+					"valueType" : "BASE_NUMBER",
+					"updater" : {
+						"type" : "ARMY_MOVEMENT", //Enable army movement bonus
+						"parameters" : [
+							20, // Movement points for lowest speed numerator
+							3,  // Movement points for lowest speed denominator
+							10, // Resulting value, rounded down, will be multiplied by this number
+							700 // All army movement bonus cannot be higher than this value (so, max movement will be 1300 + 700 for this settings)
+						]
+					}
+				}
+			}
+		}
+	},
+	
+	"artifacts" :
+	[
+		"config/artifacts/bootsOfSpeed.json", // works on water
+		"config/artifacts/equestrianGloves.json", // works on water
+		"config/artifacts/titansGladius.json", // enemies hit with power 1 chain lightning after attack
+		"config/artifacts/helmOfHeavenlyEnlightenment.json", // minus 6 luck and morale to the wearer
+		"config/artifacts/bowOfElvenCherrywood.json", // 10
+		"config/artifacts/bowstringOfTheUnicornsMane.json", // 25
+		"config/artifacts/angelFeatherArrows.json" // 50
+		//todo: titans gladius lightning
+		//todo: czajnik minus moral luck
+	],
+	"heroes" : // ai leaders double cyclopses stats
+	[
+		"config/dungeon/heroes/deemer.json",
+		"config/stronghold/heroes/yog.json",
+		"config/necropolis/heroes/aislinn.json"
+	],
+	"creatures" : //stronghold units are immune to slow
+	[
+		"config/creatures/goblin.json",
+		"config/creatures/hobgoblin.json",
+		"config/creatures/goblinWolfRider.json",
+		"config/creatures/hobgoblinWolfRider.json",
+		"config/creatures/orc.json",
+		"config/creatures/orcChieftain.json",
+		"config/creatures/ogre.json",
+		"config/creatures/ogreMage.json",
+		"config/creatures/roc.json",
+		"config/creatures/thunderbird.json",
+		"config/creatures/cyclop.json",
+		"config/creatures/cyclopKing.json",
+		"config/creatures/behemoth.json",
+		"config/creatures/ancientBehemoth.json",
+		"config/creatures/mdtCouatl.json",
+		"config/creatures/mdtQuetzalcouatl.json"
+	],
+	"compatibility" :
+	{
+		"min" : "1.3.2"
+	},
+	
+    "keepDisabled" : true
+}
