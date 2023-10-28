@@ -1,0 +1,26 @@
+{
+	"core:bowOfElvenCherrywood":
+	{
+		"bonuses" : [
+			{
+				"type" : "PERCENTAGE_DAMAGE_BOOST",
+				"subtype" : 1,
+				"val" : 10,
+				"valueType" : "ADDITIVE_VALUE",
+				"limiters" : [
+					{
+						"type" : "HAS_ANOTHER_BONUS_LIMITER",
+						"parameters" : [
+							"PERCENTAGE_DAMAGE_BOOST",
+							1,
+							{
+								"type" : "SECONDARY_SKILL",
+								"id" : "skill.archery"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

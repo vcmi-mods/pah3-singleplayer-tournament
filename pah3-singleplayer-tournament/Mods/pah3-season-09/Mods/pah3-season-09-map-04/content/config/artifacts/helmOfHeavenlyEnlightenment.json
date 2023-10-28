@@ -1,0 +1,41 @@
+{
+	"core:helmOfHeavenlyEnlightenment":
+	{
+		"bonuses" : [
+			{
+				"subtype" : "primSkill.attack",
+				"type" : "PRIMARY_SKILL",
+				"val" : 6,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"subtype" : "primSkill.defence",
+				"type" : "PRIMARY_SKILL",
+				"val" : 6,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"subtype" : "primSkill.spellpower",
+				"type" : "PRIMARY_SKILL",
+				"val" : 6,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"subtype" : "primSkill.knowledge",
+				"type" : "PRIMARY_SKILL",
+				"val" : 6,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"type" : "MORALE",
+				"val" : -6,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"type" : "LUCK",
+				"val" : -6,
+				"valueType" : "BASE_NUMBER"
+			}
+		]
+	}
+}

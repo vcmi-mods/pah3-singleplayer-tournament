@@ -1,0 +1,187 @@
+{
+	"core:aislinn" :
+	{
+		"specialty" :
+		{
+			"bonuses" :
+			{
+				"CYCLOP_HEALTH" :
+				{
+					"type" : "STACK_HEALTH",
+					"val" : 70,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclop", false ]
+						}
+					]
+				},
+				"CYCLOPKING_HEALTH" :
+				{
+					"type" : "STACK_HEALTH",
+					"val" : 70,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclopKing", false ]
+						}
+					]
+				},
+				"CYCLOP_ATTACK" :
+				{
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "primarySkill.attack",
+					"val" : 15,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclop", false ]
+						}
+					]
+				},
+				"CYCLOPKING_ATTACK" :
+				{
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "primarySkill.attack",
+					"val" : 17,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclopKing", false ]
+						}
+					]
+				},
+				"CYCLOP_DEFENSE" :
+				{
+					"type" : "PRIMARY_SKILL",
+					"val" : 12,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"subtype" : "primarySkill.defence",
+							"parameters" : [ "core:cyclop", false ]
+						}
+					]
+				},
+				"CYCLOPKING_DEFENSE" :
+				{
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "primarySkill.defence",
+					"val" : 13,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclopKing", false ]
+						}
+					]
+				},
+				"CYCLOP_DAMAGE_MIN" :
+				{
+					"type" : "CREATURE_DAMAGE",
+					"subtype" : 1,
+					"val" : 16,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclop", false ]
+						}
+					]
+				},
+				"CYCLOPKING_DAMAGE_MIN" :
+				{
+					"type" : "CREATURE_DAMAGE",
+					"subtype" : 1,
+					"val" : 16,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclopKing", false ]
+						}
+					]
+				},
+				"CYCLOP_DAMAGE_MAX" :
+				{
+					"type" : "CREATURE_DAMAGE",
+					"subtype" : 2,
+					"val" : 20,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclop", false ]
+						}
+					]
+				},
+				"CYCLOPKING_DAMAGE_MAX" :
+				{
+					"type" : "CREATURE_DAMAGE",
+					"subtype" : 2,
+					"val" : 20,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclopKing", false ]
+						}
+					]
+				},
+				"CYCLOP_SPEED" :
+				{
+					"type" : "STACKS_SPEED",
+					"val" : 6,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclop", false ]
+						}
+					]
+				},
+				"CYCLOPKING_SPEED" :
+				{
+					"type" : "STACKS_SPEED",
+					"val" : 8,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclopKing", false ]
+						}
+					]
+				},
+				"CYCLOP_SHOTS" :
+				{
+					"type" : "SHOTS",
+					"val" : 16,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclop", false ]
+						}
+					]
+				},
+				"CYCLOPKING_SHOTS" :
+				{
+					"type" : "SHOTS",
+					"val" : 24,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "core:cyclopKing", false ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
