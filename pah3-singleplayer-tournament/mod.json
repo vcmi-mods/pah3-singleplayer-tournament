@@ -3,7 +3,7 @@
 	"description" : "Submods required for each map in each season of the tournament and starting saves.<br>More info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V<br>and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5386",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw#1628 on heroes-themed Discords",
-	"version" : "9.4",
+	"version" : "9.5",
 	"modType" : "Other",
  	"depends" : 
 	[
@@ -20,7 +20,8 @@
         "9.2.1"   : [ "aded conflicts with map 1 mods to map 2" ],
         "9.3"   : [ "Map 3 of season 9" ],
         "9.3.1"   : [ "Map 3 fixes", "updated minimum vcmi version to 1.3.2" ],
-        "9.4"   : [ "Map 4 of season 9", "added line breaks in mod description" ]
+        "9.4"   : [ "Map 4 of season 9", "added line breaks in mod description" ],
+        "9.5"   : [ "Map 5 of season 9" ]
     },
 
 	"compatibility" :

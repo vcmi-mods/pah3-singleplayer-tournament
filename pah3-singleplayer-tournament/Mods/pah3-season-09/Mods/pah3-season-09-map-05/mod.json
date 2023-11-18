@@ -1,0 +1,84 @@
+{
+	"name" : "PAH3 s09 Map 5",
+	"description" : "Submods required for map 5 of season 9 of the tournament and starting saves<br>Boots give 400 land movement or 1000 sea movement<br>Gloves give 200 land movement or 500 sea movement<br>Base sea movement is same as base land movement<br>This is done to prevent Admiral's Hat abuse in case one appears on the map<br>Morale, Luck, high Defense and high Attack bonus caps lifted<br>This time enable all submods of the required mods",
+	"author" : "Warzyw647",
+	"contact" : "Warzyw#1628 on heroes-themed Discords",
+	"version" : "9.5",
+	"modType" : "Other",
+	
+ 	"depends" : 
+	[
+		"vcmi-extras",
+		"zefix",
+		"new-old-spells-plus",
+		"asphalt-terrain",
+		"forge2k",
+		"andruids-spell-balance",
+		"ab-bad-ending-assets",
+		"ab-bad-ending-maps",
+		"resourceful-ai"
+	],
+	"conflicts" : 
+	[
+		"an-expansion",
+		"magic-fader",
+		"forge",
+		"wake-of-gods",
+		"invisible-man",
+		"undead-sphinxes",
+		"greenhouse-town",
+		"combine-grail",
+		"tides-of-war",
+		"hota"
+	],
+    "changelog" :
+    {
+        "9.4"   : [ "initial release", "Added mod dependencies", "aded conflicts with map 1, 2 and 3 mods" ]
+    },
+	"settings" :
+	{
+		"combat" :
+		{
+			"goodMoraleDice" : [ 24, 12, 8, 6, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1 ],
+			"badMoraleDice" : [ 12, 6, 4, 3, 3, 2, 2, 2, 2, 2, 2, 1 ],
+			"goodLuckDice" : [ 24, 12, 8, 6, 5, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1 ],
+			"badLuckDice" : [ 12, 6, 4, 3, 3, 2, 2, 2, 2, 2, 2, 1 ],
+			"attackPointDamageFactorCap": 4000.0,
+			"defensePointDamageFactorCap": 0.99
+		},
+		"bonuses" : 
+		{
+			"perHero":
+			{
+				"seaMovement" :
+				{
+					"type" : "MOVEMENT", //Basic sea movement same as land
+					"subtype" : 0,
+					"val" : 1300,
+					"valueType" : "BASE_NUMBER",
+					"updater" : {
+						"type" : "ARMY_MOVEMENT", //Enable army movement bonus
+						"parameters" : [
+							20, // Movement points for lowest speed numerator
+							3,  // Movement points for lowest speed denominator
+							10, // Resulting value, rounded down, will be multiplied by this number
+							700 // All army movement bonus cannot be higher than this value (so, max movement will be 1300 + 700 for this settings)
+						]
+					}
+				}
+			}
+		}
+	},
+	
+	"artifacts" :
+	[
+		"config/artifacts/bootsOfSpeed.json", // works on water
+		"config/artifacts/equestrianGloves.json" // works on water
+	],
+	"compatibility" :
+	{
+		"min" : "1.3.2"
+	},
+	
+    "keepDisabled" : true
+}
