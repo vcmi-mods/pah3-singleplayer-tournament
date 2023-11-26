@@ -16,7 +16,9 @@
 		"andruids-spell-balance",
 		"ab-bad-ending-assets",
 		"ab-bad-ending-maps",
-		"resourceful-ai"
+		"resourceful-ai",
+		"resourceful-ai.ai speed up - limit on map heroes",
+		"resourceful-ai.resources bonus for ai"
 	],
 	"conflicts" : 
 	[
