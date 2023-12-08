@@ -36,7 +36,7 @@
     "changelog" :
     {
         "9.5"   : [ "initial release", "Added mod dependencies", "aded conflicts with map 1, 2, 3 and 4 mods" ],
-        "9.5.1"   : [ "generated new saves with new version of New Magic Balance mod", "high defense bonus effect has a standard cap again, because it gave Drednaughts too much survivability" ]
+        "9.5.1"   : [ "generated new saves with new version of New Magic Balance mod", "high defense bonus effect has a standard cap again, because it gave Drednaughts too much survivability", "added explicit dependencies on resourceful ai submods" ]
     },
 	"settings" :
 	{
