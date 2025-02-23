@@ -1,0 +1,21 @@
+{
+	"name" : "PAH3 Season 20",
+	"description" : "Submods required for each map of season 20 of the tournament and starting saves.<br>More info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V<br>and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479",
+	"author" : "Warzyw647",
+	"contact" : "Warzyw647 on heroes-themed Discords",
+	"version" : "20.0",
+	"modType" : "Other",
+	"conflicts" :
+	[
+		"pah3-singleplayer-tournament.pah3-season-09"
+	],
+	"changelog" :
+	{
+		"20.0" : [ "initial mod structure for new season" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.6.6"
+	},
+	"keepDisabled" : false
+}
