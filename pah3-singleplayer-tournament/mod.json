@@ -3,7 +3,7 @@
 	"description" : "Submods required for each map in each season of the tournament and starting saves.<br>More info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V<br>and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
-	"version" : "20.1",
+	"version" : "20.2",
 	"modType" : "Other",
 	"depends" :
 	[
@@ -25,7 +25,8 @@
 		"9.5" : [ "Map 5 of season 9" ],
 		"9.5.1" : [ "Map 5 of season 9 fixes", "added explicit dependencies on resourceful ai submods to s9m5", "limited max version to 1.3.9" ],
 		"20.0" : [ "mod cleanup before season 20", "included 10 old unnumbered seasons that happened before season 1 in the season numbering" ],
-		"20.1" : [ "Map 1 of season 20" ]
+		"20.1" : [ "Map 1 of season 20" ],
+		"20.2" : [ "Map 2 of season 20" ]
 	},
 	"compatibility" :
 	{
