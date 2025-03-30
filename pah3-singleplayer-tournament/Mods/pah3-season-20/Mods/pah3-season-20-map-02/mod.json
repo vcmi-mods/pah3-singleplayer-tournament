@@ -3,7 +3,7 @@
 	"description" : "Submods required for map 2 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
-	"version" : "20.2",
+	"version" : "20.3",
 	"modType" : "Other",
 	"depends" :
 	[
@@ -19,11 +19,12 @@
 	"changelog" :
 	{
 		"20.0" : [ "initial mod structure for new season" ],
-		"20.2" : [ "Added starting saves" ]
+		"20.2" : [ "Added starting saves" ],
+		"20.3" : [ "Disabled by default after round 3 start" ]
 	},
 	"compatibility" :
 	{
 		"min" : "1.6.7"
 	},
-	"keepDisabled" : false
+	"keepDisabled" : true
 }
