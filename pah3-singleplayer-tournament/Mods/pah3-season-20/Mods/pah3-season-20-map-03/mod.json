@@ -19,11 +19,12 @@
 	"changelog" :
 	{
 		"20.0" : [ "initial mod structure for new season" ],
-		"20.3" : [ "Added starting saves" ]
+		"20.3" : [ "Added starting saves" ],
+		"20.4" : [ "Disabled by default after round 4 start" ]
 	},
 	"compatibility" :
 	{
 		"min" : "1.6.7"
 	},
-	"keepDisabled" : false
+	"keepDisabled" : true
 }

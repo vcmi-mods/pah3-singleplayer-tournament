@@ -1,0 +1,56 @@
+{
+	"core:artillery" :
+	{
+		"basic" :
+		{
+			"effects" :
+			{
+				"main" : { "val" : 100 },
+				"val2" : { "val" : 0 }
+			}
+		},
+		"advanced" :
+		{
+			"effects" :
+			{
+				"main" : { "val" : 100 },
+				"val2" : { "val" : 1 }
+			}
+		},
+		"expert" :
+		{
+			"effects" :
+			{
+				"main" : { "val" : 100 },
+				"val2" : { "val" : 1 }
+			}
+		}
+	},
+	"core:eagleEye" :
+	{
+		"basic" :
+		{
+			"effects" :
+			{
+				"main" : { "val" : 100 },
+				"val2" : { "val" : 2 }
+			}
+		},
+		"advanced" :
+		{
+			"effects" :
+			{
+				"main" : { "val" : 100 },
+				"val2" : { "val" : 3 }
+			}
+		},
+		"expert" :
+		{
+			"effects" :
+			{
+				"main" : { "val" : 100 },
+				"val2" : { "val" : 4 }
+			}
+		}
+	}
+}

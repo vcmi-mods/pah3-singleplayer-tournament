@@ -1,27 +1,79 @@
 {
 	"name" : "PAH3 s20 Map 4",
-	"description" : "Submods required for map 4 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479",
+	"description" : "Submods required for map 4 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>On 200% AI starts with as much resources as a human on 80%. On 130% AI starts with 15k gold like human, instead of 10k.<br>Most of randomness removed:<br>Random Creature and Hero abilities will always trigger.<br>Faerie Dragons always cast Meteor Shower, Enchanters always Haste, Genies always cast Frenzy.<br>Azure Dragons lower enemy Morale by 4 instead of causing Fear.<br>Luck and Molale have 1 in a million chance to trigger at +/-1 and +/-2, but always trigger at +/-3.<br>All new secondary skills banned on the map except Learning, Scouting, First Aid and Magic Talent.<br>Catapult always hits Wall first without Ballistics, always hits Wall and Towers at Basic, then also Keep on Advanced, then also Gate at Expert.<br>Creatures always do average damage, rounded up to 2 in case od 1-2, otherwise rounded down. Ballista always does 3 damage per attack point instead of 2-3.<br>Summon and Scullte Boat never work without Water Magic, always work with Water Magic, Magic Mirror always works and on Expert is a mass spell.<br>Quicksand and Land Mine are level 5 but fill the entire battlefield.<br>Each hero class gives fixed Primary Skills on level-ups, like in previous season. For example Pleasantwalkers always get +1 Attack on levels 2-10 and always +1 Defense on levels 11+ while Barbarians always get +1 Knowledge. Full list of who gets what (A/D/P/K stand for Attack/Defense/Power/Knowledge), first on levels 2-10, then on levels 11+:<br>Knight D A<br>Cleric D K<br>Ranger D P<br>Druid K D<br>Alchemist D A<br>Wizard A A<br>Demoniac A P<br>Heretic P A<br>Dead Knight P D<br>Necromancer P K<br>Overlord A D<br>Warlock P P<br>Barbarian K K (blame Wnukos for this idea)<br>Battle Mage A K<br>Beastmaster D D<br>Witch K P<br>Pleasanwalker A D<br>Elementalist P K",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
-	"version" : "20.0",
+	"version" : "20.4",
 	"modType" : "Other",
+	"heroClasses" :
+	[
+		"config/heroclasses/knight.json",
+		"config/heroclasses/cleric.json",
+		"config/heroclasses/ranger.json",
+		"config/heroclasses/druid.json",
+		"config/heroclasses/alchemist.json",
+		"config/heroclasses/wizard.json",
+		"config/heroclasses/demoniac.json",
+		"config/heroclasses/heretic.json",
+		"config/heroclasses/deathknight.json",
+		"config/heroclasses/necromancer.json",
+		"config/heroclasses/overlord.json",
+		"config/heroclasses/warlock.json",
+		"config/heroclasses/barbarian.json",
+		"config/heroclasses/battlemage.json",
+		"config/heroclasses/beastmaster.json",
+		"config/heroclasses/witch.json",
+		"config/heroclasses/planeswalker.json",
+		"config/heroclasses/elementalist.json"
+	],
+	"creatures" :
+	[
+		"config/creatures/abilityChances.json",
+		"config/creatures/averageCreatureDamage.json"
+	],
+	"skills" :
+	[
+		"config/skills/nonRandomSkills.json"
+	],
+	"spells" :
+	[
+		"config/spells/spellTriggerChances.json",
+		"config/spells/catapultHitChance.json",
+		"config/spells/obstacleSpells.json"
+	],
+	"settings" :
+	{
+		"combat" :
+		{
+			"goodMoraleDice" : [ 1000000, 1000000, 1 ],
+			"badMoraleDice" : [ 1000000, 1000000, 1 ],
+			"goodLuckDice" : [ 1000000, 1000000, 1 ],
+			"badLuckDice" : [ 1000000, 1000000, 1 ]
+		}
+	},
 	"depends" :
 	[
+	],
+	"softDepends" :
+	[
+		"zefix"
 	],
 	"conflicts" :
 	[
 		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-01",
 		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-02",
 		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-03",
-		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-05"
+		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-05",
+		"tides-of-war"
 	],
 	"changelog" :
 	{
-		"20.0" : [ "initial mod structure for new season" ]
+		"20.0" : [ "initial mod structure for new season" ],
+		"20.4" : [ "Added starting saves" ]
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.6"
+		"min" : "1.6.7"
 	},
-	"keepDisabled" : true
+	"keepDisabled" : false
 }
