@@ -1,0 +1,33 @@
+{
+	"core:summonBoat" :
+	{
+		"levels" :
+		{
+			"none" : { "power" : 0 },
+			"basic" : { "power" : 100 },
+			"advanced" : { "power" : 100 },
+			"expert" : { "power" : 100 }
+		}
+	},
+	"core:scuttleBoat" :
+	{
+		"levels" :
+		{
+			"none" : { "power" : 0 },
+			"basic" : { "power" : 100 },
+			"advanced" : { "power" : 100 },
+			"expert" : { "power" : 100 }
+		}
+	},
+	"core:magicMirror" :
+	{
+		"levels" :
+		{
+			"base" : { "power" : 100 },
+			"none" : { "power" : 100 },
+			"basic" : { "power" : 100 },
+			"advanced" : { "power" : 100 },
+			"expert" : { "range" : "X", "power" : 100 }
+		}
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"core:quicksand" :
+	{
+		"level" : 5,
+		"levels" :
+		{
+			"base" :
+			{
+				"cost" : 30,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"none" :
+			{
+				"cost" : 30,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"basic" :
+			{
+				"cost" : 25,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"advanced" :
+			{
+				"cost" : 25,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"expert" :
+			{
+				"cost" : 25,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			}
+		}
+	},
+	"core:landMine" :
+	{
+		"level" : 5,
+		"levels" :
+		{
+			"base" :
+			{
+				"cost" : 30,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"none" :
+			{
+				"cost" : 30,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"basic" :
+			{
+				"cost" : 25,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"advanced" :
+			{
+				"cost" : 25,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			},
+			"expert" :
+			{
+				"cost" : 25,
+				"battleEffects" : { "obstacle" : { "patchCount" : 200 } }
+			}
+		}
+	}
+}
