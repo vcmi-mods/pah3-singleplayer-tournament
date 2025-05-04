@@ -1,0 +1,444 @@
+{
+	"core:aeris":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:ufretin":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 7,
+				"max" : 7
+			}
+		]
+	},
+	"core:ivor":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:coronius":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:elleshar":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:alagar":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:jenova":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:clancy":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:kyrre":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:malcom":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:gem":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+			   "creature" : "firstAidTent",
+			   "max" : 1,
+			   "min" : 1
+		   },
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:melodia":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:mephala":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:ryland":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:thorgrim":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:uland":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "centaur",
+				"min" : 22,
+				"max" : 22
+			},
+			{
+				"creature" : "dwarf",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "woodElf",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:gelu":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "sharpshooter",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "sharpshooter",
+				"min" : 3,
+				"max" : 3
+			},
+			{
+				"creature" : "sharpshooter",
+				"min" : 1,
+				"max" : 1
+			}
+		]
+	}
+}

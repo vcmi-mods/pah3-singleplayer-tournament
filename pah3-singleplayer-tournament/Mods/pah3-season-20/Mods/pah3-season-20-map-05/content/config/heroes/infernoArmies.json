@@ -1,0 +1,444 @@
+{
+	"core:calh":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			}
+		]
+	},
+	"core:fiona":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:ignatius":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			}
+		]
+	},
+	"core:pyre":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "ballista",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:xeron":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:rashka":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:marius":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:octavia":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:nymus":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:ayden":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:xyron":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:axsis":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:olema":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:calid":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:ash":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:zydar":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:xarfax":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "imp",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "gog",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	}
+}

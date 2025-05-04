@@ -1,0 +1,444 @@
+{
+	"core:piquedram":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 9,
+				"max" : 9
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 9,
+				"max" : 9
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 9,
+				"max" : 9
+			}
+		]
+	},
+	"core:josephine":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:dracon":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "enchanter",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "enchanter",
+				"min" : 3,
+				"max" : 3
+			},
+			{
+				"creature" : "enchanter",
+				"min" : 1,
+				"max" : 1
+			}
+		]
+	},
+	"core:torosar":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "ballista",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:thane":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:neela":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:fafner":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:rissa":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:iona":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:astral":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:halon":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:serena":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:daremyth":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:theodorus":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:solmyr":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:cyra":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:aine":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gremlin",
+				"min" : 40,
+				"max" : 40
+			},
+			{
+				"creature" : "stoneGargoyle",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "ironGolem",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	}
+}

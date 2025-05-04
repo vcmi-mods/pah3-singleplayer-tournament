@@ -1,0 +1,63 @@
+{
+	"core:summonBoat" :
+	{
+		"levels" :
+		{
+			"none" : { "power" : 0 },
+			"basic" : { "power" : 100 },
+			"advanced" : { "power" : 100 },
+			"expert" : { "power" : 100 }
+		}
+	},
+	"core:scuttleBoat" :
+	{
+		"levels" :
+		{
+			"none" : { "power" : 0 },
+			"basic" : { "power" : 100 },
+			"advanced" : { "power" : 100 },
+			"expert" : { "power" : 100 }
+		}
+	},
+	"core:magicMirror" :
+	{
+		"levels" :
+		{
+			"base" : { "power" : 100 },
+			"none" : { "power" : 100 },
+			"basic" : { "power" : 100 },
+			"advanced" : { "power" : 100 },
+			"expert" : { "range" : "X", "power" : 100 }
+		}
+	},
+	"core:earthquake" :
+	{
+		"levels" :
+		{
+			"base" : { "battleEffects" : { "catapult" : { "targetsToAttack" : 100 } } },
+			"basic" : { "battleEffects" : { "catapult" : { "targetsToAttack" : 100 } } },
+			"advanced" : { "battleEffects" : { "catapult" : { "targetsToAttack" : 100 } } },
+			"expert" : { "battleEffects" : { "catapult" : { "targetsToAttack" : 100, "chanceToCrit" : 100, "chanceToNormalHit" : 0 } } }
+		}
+	},
+	"courtyard:dragonPotion" :
+	{
+		"levels" :
+		{
+			"none" : { "effects" : { "setAflame" : { "type" : "SPELL_AFTER_ATTACK", "addInfo" : [ 0, 2 ], "subtype" : "spell.immolationCurse", "val" : 100, "duration": "N_TURNS" } } },
+			"basic" : { "effects" : { "setAflame" : { "type" : "SPELL_AFTER_ATTACK", "addInfo" : [ 1, 2 ], "subtype" : "spell.immolationCurse", "val" : 100, "duration": "N_TURNS" } } },
+			"advanced" : { "effects" : { "setAflame" : { "type" : "SPELL_AFTER_ATTACK", "addInfo" : [ 2, 2 ], "subtype" : "spell.immolationCurse", "val" : 100, "duration": "N_TURNS" } } },
+			"expert" : { "effects" : { "setAflame" : { "type" : "SPELL_AFTER_ATTACK", "addInfo" : [ 2, 2 ], "subtype" : "spell.immolationCurse", "val" : 100, "duration": "N_TURNS" } } }
+		}
+	},
+	"courtyard:weaponPoisonPotion" :
+	{
+		"levels" :
+		{
+			"none" : { "effects" : { "poison" : { "type" : "SPELL_AFTER_ATTACK", "subtype" : "spell.poison", "val" : 100, "duration" : "N_TURNS" } } },
+			"basic" : { "effects" : { "poison" : { "type" : "SPELL_AFTER_ATTACK", "subtype" : "spell.poison", "val" : 100, "duration" : "N_TURNS" } } },
+			"advanced" : { "effects" : { "poison" : { "type" : "SPELL_AFTER_ATTACK", "subtype" : "spell.poison", "val" : 100, "duration" : "N_TURNS" } } },
+			"expert" : { "effects" : { "poison" : { "type" : "SPELL_AFTER_ATTACK", "subtype" : "spell.poison", "val" : 100, "duration" : "N_TURNS" } } }
+		}
+	}
+}

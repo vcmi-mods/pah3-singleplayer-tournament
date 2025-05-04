@@ -1,0 +1,510 @@
+{
+	"courtyard:08audred":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			}
+		]
+	},
+	"courtyard:00auk":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		],
+		"specialty" :
+		{
+			"bonuses" :
+			{
+				"battleDodoResist" :
+				{
+					"type" : "MAGIC_RESISTANCE",
+					"val" : 100,
+					"limiters" :
+					[
+						{
+						"type":"CREATURE_TYPE_LIMITER",
+						"parameters": [ "battleDodo", false ]
+						}
+					]
+				},
+				"battleDodoResistAura" :
+				{
+					"type" : "SPELL_RESISTANCE_AURA",
+					"val" : 100,
+					"limiters" :
+					[
+						{
+						"type":"CREATURE_TYPE_LIMITER",
+						"parameters": [ "battleDodo", false ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"courtyard:01caballe":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "potionCartCreature",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			}
+		]
+	},
+	"courtyard:13dictamnus":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"courtyard:04dizheel":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"courtyard:12hanester":
+	{
+		"special" : true,
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"courtyard:02kanim":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "arquebusier",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"courtyard:03lumiere":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "arquebusier",
+				"min" : 4,
+				"max" : 4
+			}
+		],
+		"specialty#override" :
+		{
+			"bonuses" :
+			{
+				"casts" :
+				{
+					"type" : "CASTS",
+					"propagator" : "HERO",
+					"val" : 3,
+					"limiters" : [  "allOf", { "type" : "CREATURE_TYPE_LIMITER", "parameters": [ "arquebusier", true ] } ]
+				},
+				"castSand" :
+				{
+					"addInfo" : 4,
+					"subtype" : "spell.quicksand",
+					"propagator" : "HERO",
+					"type" : "ENCHANTER",
+					"val" : 2,
+					"limiters": [  "allOf", { "type" : "CREATURE_TYPE_LIMITER", "parameters": [ "arquebusier", true ] } ]
+				}
+			}
+		}
+	},
+	"courtyard:09migdigravia":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "cameraObscuraCreature",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			}
+		],
+		"specialty" :
+		{
+			"bonuses" :
+			{
+				"apparitionSummoning" :
+				{
+					"type" : "SPELLCASTER",
+					"subtype": "spell.summonApparition",
+					"val": 3,
+					"addInfo" : 1000000,
+					"limiters" :
+					[
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"parameters" : [ "cameraObscuraCreature", true ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"courtyard:11nefefareen":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		],
+		"specialty" :
+		{
+			"bonuses" :
+			{
+				"setAflame" :
+				{
+					"type" : "SPELL_AFTER_ATTACK",
+					"addInfo" : [1,0],
+					"subtype" : "spell.immolationCurse",
+					"val" : 100,
+					"limiters":
+					[
+						"allOf", 
+						{ "type" : "CREATURE_TYPE_LIMITER", "parameters": [ "fireNewt", true ] },
+						{ "type" : "HAS_ANOTHER_BONUS_LIMITER", "parameters" : [ "FIRE_SHIELD" ] }
+					]
+				}
+			}
+		}
+	},
+	"courtyard:06ophrys":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"courtyard:05raphus":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			}
+		]
+	},
+	"courtyard:07teophrast":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"courtyard:10vogundessi":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"courtyard:14zana":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"courtyard:15zazzerpan":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "cupid",
+				"min" : 18,
+				"max" : 18
+			},
+			{
+				"creature" : "homunculus",
+				"min" : 11,
+				"max" : 11
+			},
+			{
+				"creature" : "fireNewt",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	}
+}
