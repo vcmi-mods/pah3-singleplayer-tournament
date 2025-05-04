@@ -1,0 +1,496 @@
+{
+	"core:orrin":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:valeska":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			}
+		]
+	},
+	"core:edric":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:sylvia":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:lordHaart":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:sorsha":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:christian":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+			   "creature" : "ballista",
+			   "max" : 1,
+			   "min" : 1
+		   },
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:tyris":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:sirMullich":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:catherine":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:roland":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:rion":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+			   "creature" : "firstAidTent",
+			   "max" : 1,
+			   "min" : 1
+		   },
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:adela":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:cuthbert":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:adelaide":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:ingham":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:sanya":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:loynis":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:caitlin":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pikeman",
+				"min" : 20,
+				"max" : 20
+			},
+			{
+				"creature" : "archer",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "griffin",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	}
+}

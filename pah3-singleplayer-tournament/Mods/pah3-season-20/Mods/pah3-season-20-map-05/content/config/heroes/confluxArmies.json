@@ -1,0 +1,418 @@
+{
+	"core:pasis":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:monere":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:fiur":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:ignissa":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:kalt":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:lacus":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 4,
+				"max" : 4
+			}
+		]
+	},
+	"core:thunar":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:erdamon":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:luna":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:brissa":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:ciele":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:labetha":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:inteus":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:aenain":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:gelare":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	},
+	"core:grindan":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "pixie",
+				"min" : 25,
+				"max" : 25
+			},
+			{
+				"creature" : "airElemental",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "waterElemental",
+				"min" : 3,
+				"max" : 3
+			}
+		]
+	}
+}

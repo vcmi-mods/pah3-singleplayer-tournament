@@ -1,0 +1,1274 @@
+{
+	"core:pikeman" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:halberdier" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:archer" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:marksman" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:griffin" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:royalGriffin" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:swordsman" :
+	{
+		"damage" :
+		{
+			"min" : 7,
+			"max" : 7
+		}
+	},
+	"core:crusader" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:monk" :
+	{
+		"damage" :
+		{
+			"min" : 11,
+			"max" : 11
+		}
+	},
+	"core:zealot" :
+	{
+		"damage" :
+		{
+			"min" : 11,
+			"max" : 11
+		}
+	},
+	"core:cavalier" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:champion" :
+	{
+		"damage" :
+		{
+			"min" : 22,
+			"max" : 22
+		}
+	},
+	"core:angel" :
+	{
+		"damage" :
+		{
+			"min" : 50,
+			"max" : 50
+		}
+	},
+	"core:archangel" :
+	{
+		"damage" :
+		{
+			"min" : 50,
+			"max" : 50
+		}
+	},
+	"core:pixie" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:sprite" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:airElemental" :
+	{
+		"damage" :
+		{
+			"min" : 5,
+			"max" : 5
+		}
+	},
+	"core:stormElemental" :
+	{
+		"damage" :
+		{
+			"min" : 5,
+			"max" : 5
+		}
+	},
+	"core:waterElemental" :
+	{
+		"damage" :
+		{
+			"min" : 5,
+			"max" : 5
+		}
+	},
+	"core:iceElemental" :
+	{
+		"damage" :
+		{
+			"min" : 5,
+			"max" : 5
+		}
+	},
+	"core:fireElemental" :
+	{
+		"damage" :
+		{
+			"min" : 5,
+			"max" : 5
+		}
+	},
+	"core:energyElemental" :
+	{
+		"damage" :
+		{
+			"min" : 5,
+			"max" : 5
+		}
+	},
+	"core:earthElemental" :
+	{
+		"damage" :
+		{
+			"min" : 6,
+			"max" : 6
+		}
+	},
+	"core:magmaElemental" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:psychicElemental" :
+	{
+		"damage" :
+		{
+			"min" : 15,
+			"max" : 15
+		}
+	},
+	"core:magicElemental" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:firebird" :
+	{
+		"damage" :
+		{
+			"min" : 35,
+			"max" : 35
+		}
+	},
+	"core:phoenix" :
+	{
+		"damage" :
+		{
+			"min" : 35,
+			"max" : 35
+		}
+	},
+	"core:troglodyte" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:infernalTroglodyte" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:harpy" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:harpyHag" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:beholder" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:evilEye" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:medusa" :
+	{
+		"damage" :
+		{
+			"min" : 7,
+			"max" : 7
+		}
+	},
+	"core:medusaQueen" :
+	{
+		"damage" :
+		{
+			"min" : 7,
+			"max" : 7
+		}
+	},
+	"core:minotaur" :
+	{
+		"damage" :
+		{
+			"min" : 16,
+			"max" : 16
+		}
+	},
+	"core:minotaurKing" :
+	{
+		"damage" :
+		{
+			"min" : 16,
+			"max" : 16
+		}
+	},
+	"core:manticore" :
+	{
+		"damage" :
+		{
+			"min" : 17,
+			"max" : 17
+		}
+	},
+	"core:scorpicore" :
+	{
+		"damage" :
+		{
+			"min" : 17,
+			"max" : 17
+		}
+	},
+	"core:redDragon" :
+	{
+		"damage" :
+		{
+			"min" : 45,
+			"max" : 45
+		}
+	},
+	"core:blackDragon" :
+	{
+		"damage" :
+		{
+			"min" : 45,
+			"max" : 45
+		}
+	},
+	"core:gnoll" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:gnollMarauder" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:lizardman" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:lizardWarrior" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:serpentFly" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:fireDragonFly" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:basilisk" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:greaterBasilisk" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:gorgon" :
+	{
+		"damage" :
+		{
+			"min" : 14,
+			"max" : 14
+		}
+	},
+	"core:mightyGorgon" :
+	{
+		"damage" :
+		{
+			"min" : 14,
+			"max" : 14
+		}
+	},
+	"core:wyvern" :
+	{
+		"damage" :
+		{
+			"min" : 16,
+			"max" : 16
+		}
+	},
+	"core:wyvernMonarch" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:hydra" :
+	{
+		"damage" :
+		{
+			"min" : 35,
+			"max" : 35
+		}
+	},
+	"core:chaosHydra" :
+	{
+		"damage" :
+		{
+			"min" : 35,
+			"max" : 35
+		}
+	},
+	"core:imp" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:familiar" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:gog" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:magog" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:hellHound" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:cerberus" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:demon" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:hornedDemon" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:pitFiend" :
+	{
+		"damage" :
+		{
+			"min" : 15,
+			"max" : 15
+		}
+	},
+	"core:pitLord" :
+	{
+		"damage" :
+		{
+			"min" : 15,
+			"max" : 15
+		}
+	},
+	"core:efreet" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:efreetSultan" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:devil" :
+	{
+		"damage" :
+		{
+			"min" : 35,
+			"max" : 35
+		}
+	},
+	"core:archDevil" :
+	{
+		"damage" :
+		{
+			"min" : 35,
+			"max" : 35
+		}
+	},
+	"core:skeleton" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:skeletonWarrior" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:walkingDead" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:zombieLord" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:wight" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:wraith" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:vampire" :
+	{
+		"damage" :
+		{
+			"min" : 6,
+			"max" : 6
+		}
+	},
+	"core:vampireLord" :
+	{
+		"damage" :
+		{
+			"min" : 6,
+			"max" : 6
+		}
+	},
+	"core:lich" :
+	{
+		"damage" :
+		{
+			"min" : 12,
+			"max" : 12
+		}
+	},
+	"core:powerLich" :
+	{
+		"damage" :
+		{
+			"min" : 13,
+			"max" : 13
+		}
+	},
+	"core:blackKnight" :
+	{
+		"damage" :
+		{
+			"min" : 22,
+			"max" : 22
+		}
+	},
+	"core:dreadKnight" :
+	{
+		"damage" :
+		{
+			"min" : 22,
+			"max" : 22
+		}
+	},
+	"core:boneDragon" :
+	{
+		"damage" :
+		{
+			"min" : 37,
+			"max" : 37
+		}
+	},
+	"core:ghostDragon" :
+	{
+		"damage" :
+		{
+			"min" : 37,
+			"max" : 37
+		}
+	},
+	"core:goldGolem" :
+	{
+		"damage" :
+		{
+			"min" : 9,
+			"max" : 9
+		}
+	},
+	"core:diamondGolem" :
+	{
+		"damage" :
+		{
+			"min" : 12,
+			"max" : 12
+		}
+	},
+	"core:azureDragon" :
+	{
+		"damage" :
+		{
+			"min" : 75,
+			"max" : 75
+		}
+	},
+	"core:crystalDragon" :
+	{
+		"damage" :
+		{
+			"min" : 67,
+			"max" : 67
+		}
+	},
+	"core:fairieDragon" :
+	{
+		"damage" :
+		{
+			"min" : 25,
+			"max" : 25
+		}
+	},
+	"core:rustDragon" :
+	{
+		"damage" :
+		{
+			"min" : 50,
+			"max" : 50
+		}
+	},
+	"core:enchanter" :
+	{
+		"damage" :
+		{
+			"min" : 14,
+			"max" : 14
+		}
+	},
+	"core:sharpshooter" :
+	{
+		"damage" :
+		{
+			"min" : 9,
+			"max" : 9
+		}
+	},
+	"core:halfling" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:peasant" :
+	{
+		"damage" :
+		{
+			"min" : 1,
+			"max" : 1
+		}
+	},
+	"core:boar" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:mummy" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:nomad" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:rogue" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:troll" :
+	{
+		"damage" :
+		{
+			"min" : 12,
+			"max" : 12
+		}
+	},
+	"core:centaur" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:centaurCaptain" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:dwarf" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:battleDwarf" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:woodElf" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:grandElf" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:pegasus" :
+	{
+		"damage" :
+		{
+			"min" : 7,
+			"max" : 7
+		}
+	},
+	"core:silverPegasus" :
+	{
+		"damage" :
+		{
+			"min" : 7,
+			"max" : 7
+		}
+	},
+	"core:dendroidGuard" :
+	{
+		"damage" :
+		{
+			"min" : 12,
+			"max" : 12
+		}
+	},
+	"core:dendroidSoldier" :
+	{
+		"damage" :
+		{
+			"min" : 12,
+			"max" : 12
+		}
+	},
+	"core:unicorn" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:warUnicorn" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:greenDragon" :
+	{
+		"damage" :
+		{
+			"min" : 45,
+			"max" : 45
+		}
+	},
+	"core:goldDragon" :
+	{
+		"damage" :
+		{
+			"min" : 45,
+			"max" : 45
+		}
+	},
+	"core:goblin" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:hobgoblin" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:goblinWolfRider" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:hobgoblinWolfRider" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:orc" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:orcChieftain" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:ogre" :
+	{
+		"damage" :
+		{
+			"min" : 9,
+			"max" : 9
+		}
+	},
+	"core:ogreMage" :
+	{
+		"damage" :
+		{
+			"min" : 9,
+			"max" : 9
+		}
+	},
+	"core:roc" :
+	{
+		"damage" :
+		{
+			"min" : 13,
+			"max" : 13
+		}
+	},
+	"core:thunderbird" :
+	{
+		"damage" :
+		{
+			"min" : 13,
+			"max" : 13
+		}
+	},
+	"core:cyclop" :
+	{
+		"damage" :
+		{
+			"min" : 18,
+			"max" : 18
+		}
+	},
+	"core:cyclopKing" :
+	{
+		"damage" :
+		{
+			"min" : 18,
+			"max" : 18
+		}
+	},
+	"core:behemoth" :
+	{
+		"damage" :
+		{
+			"min" : 40,
+			"max" : 40
+		}
+	},
+	"core:ancientBehemoth" :
+	{
+		"damage" :
+		{
+			"min" : 40,
+			"max" : 40
+		}
+	},
+	"core:gremlin" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:masterGremlin" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:stoneGargoyle" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:obsidianGargoyle" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"core:ironGolem" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:stoneGolem" :
+	{
+		"damage" :
+		{
+			"min" : 4,
+			"max" : 4
+		}
+	},
+	"core:mage" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:archMage" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"core:genie" :
+	{
+		"damage" :
+		{
+			"min" : 14,
+			"max" : 14
+		}
+	},
+	"core:masterGenie" :
+	{
+		"damage" :
+		{
+			"min" : 14,
+			"max" : 14
+		}
+	},
+	"core:naga" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"core:nagaQueen" :
+	{
+		"damage" :
+		{
+			"min" : 30,
+			"max" : 30
+		}
+	},
+	"core:giant" :
+	{
+		"damage" :
+		{
+			"min" : 50,
+			"max" : 50
+		}
+	},
+	"core:titan" :
+	{
+		"damage" :
+		{
+			"min" : 50,
+			"max" : 50
+		}
+	},
+	"core:ballista" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"core:arrowTower" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"courtyard:tangleVine" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"courtyard:strangleVine" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"courtyard:cupid" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"courtyard:graniteCupid" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"courtyard:homunculus" :
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 2
+		}
+	},
+	"courtyard:gildedHomunculus" :
+	{
+		"damage" :
+		{
+			"min" : 3,
+			"max" : 3
+		}
+	},
+	"courtyard:fireNewt" :
+	{
+		"damage" :
+		{
+			"min" : 5,
+			"max" : 5
+		}
+	},
+	"courtyard:arquebusier" :
+	{
+		"damage" :
+		{
+			"min" : 8,
+			"max" : 8
+		}
+	},
+	"courtyard:musketeer" :
+	{
+		"damage" :
+		{
+			"min" : 9,
+			"max" : 9
+		}
+	},
+	"courtyard:dodo" :
+	{
+		"damage" :
+		{
+			"min" : 9,
+			"max" : 9
+		}
+	},
+	"courtyard:battleDodo" :
+	{
+		"damage" :
+		{
+			"min" : 9,
+			"max" : 9
+		}
+	},
+	"courtyard:greaterDodo" :
+	{
+		"damage" :
+		{
+			"min" : 14,
+			"max" : 14
+		}
+	},
+	"courtyard:mandrake" :
+	{
+		"damage" :
+		{
+			"min" : 20,
+			"max" : 20
+		}
+	},
+	"courtyard:regalMandrake" :
+	{
+		"damage" :
+		{
+			"min" : 23,
+			"max" : 23
+		}
+	},
+	"courtyard:jabberwock" :
+	{
+		"damage" :
+		{
+			"min" : 35,
+			"max" : 35
+		}
+	},
+	"courtyard:monstrousJabberwock" :
+	{
+		"damage" :
+		{
+			"min" : 40,
+			"max" : 40
+		}
+	}
+}

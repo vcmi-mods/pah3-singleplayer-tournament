@@ -1,0 +1,444 @@
+{
+	"core:straker":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 8,
+				"max" : 8
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 8,
+				"max" : 8
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 8,
+				"max" : 8
+			}
+		]
+	},
+	"core:charna":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:galthran":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			}
+		]
+	},
+	"core:undeadHaart":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:vokial":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:moandor":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:tamika":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:isra":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:clavius":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:septienna":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:aislinn":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:sandro":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:nimbus":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:thant":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:xsi":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:vidomina":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	},
+	"core:nagash":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "skeleton",
+				"min" : 30,
+				"max" : 30
+			},
+			{
+				"creature" : "walkingDead",
+				"min" : 6,
+				"max" : 6
+			},
+			{
+				"creature" : "wight",
+				"min" : 6,
+				"max" : 6
+			}
+		]
+	}
+}

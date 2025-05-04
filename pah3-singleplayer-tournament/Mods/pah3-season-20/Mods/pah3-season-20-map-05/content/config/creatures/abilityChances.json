@@ -1,0 +1,735 @@
+{
+	"core:phoenix":
+	{
+		"abilities":
+		{
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"twoHexAttackBreath" :
+			{
+				"type" : "TWO_HEX_ATTACK_BREATH"
+			},
+			"rebirthOnce" :
+			{
+				"type" : "CASTS",
+				"val" : 1
+			},
+			"rebirth" : 
+			{
+				"type" : "REBIRTH",
+				"val" : 100
+			},
+			"immuneToFire" :
+			{
+				"type" : "SPELL_SCHOOL_IMMUNITY",
+				"subtype" : "spellSchool.fire"
+			},
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val" : 0
+			}
+		}
+	},
+	"core:minotaur" :
+	{
+		"abilities": 
+		{
+			"fearless" :
+			{
+				"type" : "MORALE",
+				"val" : 3,
+				"valueType" : "INDEPENDENT_MAX"
+			}
+		 }
+	},
+	"core:minotaurKing" :
+	{
+		"abilities": 
+		{
+			"fearless" :
+			{
+				"type" : "MORALE",
+				"val" : 3,
+				"valueType" : "INDEPENDENT_MAX"
+			}
+		 }
+	},
+	"core:mightyGorgon" :
+	{
+		"abilities":
+		{
+			"deathStare" : 
+			{
+				"type" : "DEATH_STARE",
+				"subtype" : "deathStareGorgon",
+				"val" : 100
+			}
+		}
+	},
+	"core:masterGenie" :
+	{
+		"abilities#override" :
+		{
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"casts" :
+			{
+				"type" : "CASTS",
+				"val" : 3
+			},
+			"spellsLength" : 
+			{
+				"type" : "CREATURE_ENCHANT_POWER",
+				"val" : 5
+			},
+			"randomSpellcaster" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.frenzy",
+				"val" : 2
+			},
+			"hateEfreet" : 
+			{
+				"type" : "HATE",
+				"subtype" : "creature.efreet",
+				"val" : 50
+			},
+			"hateEfreetSultans" : 
+			{
+				"type" : "HATE",
+				"subtype" : "creature.efreetSultan",
+				"val" : 50
+			}
+		}
+	},
+	"core:enchanter" :
+	{
+		"abilities#override" :
+		{
+			"shooter" :
+			{
+				"type" : "SHOOTER"
+			},
+			"noMeleePenalty" :
+			{
+				"type" : "NO_MELEE_PENALTY"
+			},
+			"noWallPenalty" :
+			{
+				"type" : "NO_WALL_PENALTY"
+			},
+			"casts" :
+			{
+				"type" : "CASTS",
+				"val" : 5
+			},
+			"castsHaste" :
+			{
+				"type" : "ENCHANTER",
+				"subtype" : "spell.haste",
+				"val" : 3,
+				"addInfo" : 3
+			}
+		}
+	},
+	"core:azureDragon" :
+	{
+		"abilities#override" :
+		{
+			"dragon" : 
+			{
+				"type" : "DRAGON_NATURE"
+			},
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"twoHexAttackBreath" :
+			{
+				"type" : "TWO_HEX_ATTACK_BREATH"
+			},
+			"fear" :
+			{
+				"type" : "MORALE",
+				"val" : -4,
+				"stacking" : "Moral Fears",
+				"propagator": "BATTLE_WIDE",
+				"propagationUpdater" : "BONUS_OWNER_UPDATER",
+				"limiters" : [ "OPPOSITE_SIDE" ]
+			},
+			"fearless" :
+			{
+				"type" : "MORALE",
+				"val" : 0,
+				"valueType" : "INDEPENDENT_MAX"
+			},
+			"spellImmunity" :
+			{
+				"type" : "LEVEL_SPELL_IMMUNITY",
+				"val" : 3
+			},
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val" : 0
+			}
+		}
+	},
+	"core:fairieDragon" :
+	{
+		"abilities" :
+		{
+			"dragon" :
+			{
+				"type" : "DRAGON_NATURE"
+			},
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"mirror" :
+			{
+				"type" : "MAGIC_MIRROR",
+				"val" : 100
+			},
+			"casts" :
+			{
+				"type" : "CASTS",
+				"val" : 5
+			},
+			"spellpower" :
+			{
+				"type" : "CREATURE_SPELL_POWER",
+				"val" : 500
+			},
+			"castsMagicArrow" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.magicArrow",
+				"addInfo" : 0,
+				"val" : 2
+			},
+			"castsIceBolt" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.iceBolt",
+				"addInfo" : 0,
+				"val" : 2
+			},
+			"castsLightningBolt" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.lightningBolt",
+				"addInfo" : 0,
+				"val" : 2
+			},
+			"castsChainLightning" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.chainLightning",
+				"addInfo" : 0,
+				"val" : 2
+			},
+			"castsFrostRing" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.frostRing",
+				"addInfo" : 0,
+				"val" : 2
+			},
+			"castsFireball" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.fireball",
+				"addInfo" : 0,
+				"val" : 2
+			},
+			"castsInferno" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.inferno",
+				"addInfo" : 0,
+				"val" : 2
+			},
+			"castsMeteorShower" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.meteorShower",
+				"addInfo" : 100,
+				"val" : 2
+			},
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val" : 0
+			}
+		}
+	},
+	"core:rustDragon" :
+	{
+		"abilities" :
+		{
+			
+			"dragon" : 
+			{
+				"type" : "DRAGON_NATURE"
+			},
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"twoHexAttackBreath" :
+			{
+				"type" : "TWO_HEX_ATTACK_BREATH"
+			},
+			"acidBreath" :
+			{
+				"type" : "ACID_BREATH",
+				"val" : 25,
+				"addInfo" : 100
+			},
+			"reduceDefence" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.acidBreath",
+				"val" : 100
+			},
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val" : 0
+			}
+		}
+	},
+	"core:crystalDragon" :
+	{
+		"abilities" :
+		{
+			"dragon" :
+			{
+				"type" : "DRAGON_NATURE"
+			},
+			"crystals" :
+			{
+				"type" : "SPECIAL_CRYSTAL_GENERATION"
+			},
+			"magicResistance" :
+			{
+				"type" : "MAGIC_RESISTANCE",
+				"val" : 100
+			},
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val" : 0
+			}
+		}
+	},
+	"core:dwarf" :
+	{
+		"abilities" :
+		{
+			"magicResistance" :
+			{
+				"type" : "MAGIC_RESISTANCE",
+				"val" : 100
+			}
+		}
+	},
+	"core:battleDwarf" :
+	{
+		"abilities" :
+		{
+			"magicResistance" :
+			{
+				"type" : "MAGIC_RESISTANCE",
+				"val" : 100
+			}
+		}
+	},
+	"core:unicorn" :
+	{
+		"abilities" :
+		{
+			"blinds" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.blind",
+				"val" : 100,
+				"addInfo" : [3,0]
+			},
+			"spellResistAura" :
+			{
+				"type" : "SPELL_RESISTANCE_AURA",
+				"val" : 100
+			}
+		}
+	},
+	"core:warUnicorn" :
+	{
+		"abilities" :
+		{
+			"blinds" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.blind",
+				"val" : 100,
+				"addInfo" : [3,0]
+			},
+			"spellResistAura" :
+			{
+				"type" : "SPELL_RESISTANCE_AURA",
+				"val" : 100
+			}
+		}
+	},
+	"core:medusa" :
+	{
+		"abilities" :
+		{
+			"shooter" :
+			{
+				"type" : "SHOOTER"
+			},
+			"noMeleePenalty" :
+			{
+				"type" : "NO_MELEE_PENALTY"
+			},
+			"petrification" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.stoneGaze",
+				"val" : 100,
+				"addInfo" : [0,2]
+			}
+		}
+	},
+	"core:medusaQueen" :
+	{
+		"abilities" :
+		{
+			"shooter" :
+			{
+				"type" : "SHOOTER"
+			},
+			"noMeleePenalty" :
+			{
+				"type" : "NO_MELEE_PENALTY"
+			},
+			"petrification" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.stoneGaze",
+				"val" : 100,
+				"addInfo" : [0,2]
+			}
+		}
+	},
+	"core:scorpicore" :
+	{
+		"abilities" :
+		{
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"paralize" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.paralyze",
+				"val" : 100
+			}
+		}
+	},
+	"core:basilisk" :
+	{
+		"abilities" :
+		{
+			"petrify" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.stoneGaze",
+				"val" : 100
+			}
+		}
+	},
+	"core:greaterBasilisk" :
+	{
+		"abilities" :
+		{
+			"petrify" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.stoneGaze",
+				"val" : 100
+			}
+		}
+	},
+	"core:wyvernMonarch" :
+	{
+		"abilities" :
+		{
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"poison" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.poison",
+				"val" : 100
+			}
+		}
+	},
+	"core:zombieLord" :
+	{
+		"abilities" :
+		{
+			"undead" :
+			{
+				"type" : "UNDEAD"
+			},
+			"castDisease" : 
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.disease",
+				"val" : 100
+			}
+		}
+	},
+	"core:mummy" :
+	{
+		"abilities" :
+		{
+			"undead" :
+			{
+				"type" : "UNDEAD"
+			},
+			"curses" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.curse",
+				"val" : 100
+			}
+		}
+	},
+	"core:blackKnight" :
+	{
+		"abilities" :
+		{
+			"undead" :
+			{
+				"type" : "UNDEAD"
+			},
+			"curses" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.curse",
+				"val" : 100
+			}
+		}
+	},
+	"core:dreadKnight" :
+	{
+		"abilities" :
+		{
+			"undead" :
+			{
+				"type" : "UNDEAD"
+			},
+			"curses" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.curse",
+				"val" : 100
+			},
+			"deathStrike" :
+			{
+				"type" : "DOUBLE_DAMAGE_CHANCE",
+				"val" : 100
+			}
+		}
+	},
+	"core:ghostDragon" :
+	{
+		"abilities" :
+		{
+			"undead" :
+			{
+				"type" : "UNDEAD"
+			},
+			"dragon" :
+			{
+				"type" : "DRAGON_NATURE"
+			},
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"age" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.age",
+				"val" : 100
+			},
+			"decreaseMorale" :
+			{
+				"type" : "MORALE",
+				"val" : -1,
+				"stacking" : "Undead Dragons",
+				"propagator": "BATTLE_WIDE",
+				"propagationUpdater" : "BONUS_OWNER_UPDATER",
+				"limiters" : [ "OPPOSITE_SIDE" ]
+			},
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val" : 0
+			}
+		}
+	},
+	"core:thunderbird" :
+	{
+		"abilities" :
+		{
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"thunderOnAttack" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.thunderbolt",
+				"val" : 100
+			},
+			"thunderStrength" :
+			{
+				"type" : "SPECIFIC_SPELL_POWER",
+				"subtype" : "spell.thunderbolt",
+				"val" : 10
+			}
+		}
+	},
+	"courtyard:cameraObscuraCreature" :
+	{
+		"abilities" :
+		{
+			"ageCasting" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.ageCamera",
+				"val" : 3,
+				"addInfo" : 1000
+			},
+			"summonCasting" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.summonApparition",
+				"val" : 3,
+				"addInfo" : 1
+			}
+		}
+	},
+	"courtyard:apparition" :
+	{
+		"abilities" :
+		{
+			"fear" :
+			{
+				"type" : "MORALE",
+				"val" : -4,
+				"stacking" : "Moral Fears",
+				"propagator": "BATTLE_WIDE",
+				"propagationUpdater" : "BONUS_OWNER_UPDATER",
+				"limiters" : [ "OPPOSITE_SIDE" ]
+			}
+		}
+	},
+	"courtyard:graniteCupid" :
+	{
+		"abilities" :
+		{
+			"stun" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.stunAbility",
+				"val" : 100,
+				"addInfo" : [ 2, 2 ]
+			}
+		}
+	},
+	"courtyard:dodo" :
+	{
+		"abilities" :
+		{
+			"fearless" :
+			{
+				"type" : "MORALE",
+				"val" : 0,
+				"valueType" : "INDEPENDENT_MAX"
+			}
+		}
+	},
+	"courtyard:battleDodo" :
+	{
+		"abilities" :
+		{
+			"fearless" :
+			{
+				"type" : "MORALE",
+				"val" : 0,
+				"valueType" : "INDEPENDENT_MAX"
+			},
+			"magicDamageReductionAura" :
+			{
+				"type" : "SPELL_RESISTANCE_AURA",
+				"val" : 100
+			}
+		}
+	},
+	"courtyard:greaterDodo" :
+	{
+		"abilities" :
+		{
+			"fearless" :
+			{
+				"type" : "MORALE",
+				"val" : 0,
+				"valueType" : "INDEPENDENT_MAX"
+			}
+		}
+	},
+	"courtyard:monstrousJabberwock" :
+	{
+		"abilities" :
+		{
+			"decimation" :
+			{
+				"type" : "DESTRUCTION",
+				"subtype" : "destructionKillPercentage",
+				"val" : 100,
+				"addInfo" : 10
+			},
+			"fear" :
+			{
+				"type" : "MORALE",
+				"val" : -4,
+				"stacking" : "Moral Fears",
+				"propagator": "BATTLE_WIDE",
+				"propagationUpdater" : "BONUS_OWNER_UPDATER",
+				"limiters" : [ "OPPOSITE_SIDE" ]
+			},
+			"fearless" :
+			{
+				"type" : "MORALE",
+				"val" : 0,
+				"valueType" : "INDEPENDENT_MAX"
+			}
+		}
+	}
+}

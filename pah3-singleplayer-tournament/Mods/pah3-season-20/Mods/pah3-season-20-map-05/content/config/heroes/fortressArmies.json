@@ -1,0 +1,444 @@
+{
+	"core:wystan":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			}
+		]
+	},
+	"core:korbac":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:drakon":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			}
+		]
+	},
+	"core:gerwulf":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "ballista",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:verdish":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "firstAidTent",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:bron":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "basilisk",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:tazar":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:alkin":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:broghild":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:mirlanda":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:rosic":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:voy":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:merist":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:styg":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:andra":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:tiva":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	},
+	"core:adrienne":
+	{
+		"army" :
+		[
+			{
+				"creature" : "peasant",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "gnoll",
+				"min" : 24,
+				"max" : 24
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 7,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 5,
+				"max" : 5
+			}
+		]
+	}
+}
