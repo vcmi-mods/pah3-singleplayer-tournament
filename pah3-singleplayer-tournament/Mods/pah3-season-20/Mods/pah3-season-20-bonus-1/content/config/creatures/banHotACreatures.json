@@ -1,0 +1,138 @@
+{
+	"hota.cove:nymph" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:oceanid" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:crewmate" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:seaman" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:pirate" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:corsair" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:seadog" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:stormbird" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:ayssid" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:seaWitch" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:sorceress" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:nix" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:nixWarrior" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:seaserpent" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.cove:haspid" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:halflingGrenadier" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:hotaMechanic" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:hotaEngineer" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:armadillo" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:bellwetherArmadillo" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:automaton" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:sentinelAutomaton" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:sandworm" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:olgoiKhorkhoi" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:gunslinger" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:bountyHunter" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:hotaCouatl" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:crimsonCouatl" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:hotaDreadnought" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.factory:hotaJuggernaut" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.neutralcreatures:fangarm" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.neutralcreatures:leprechaun" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.neutralcreatures:satyr" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"hota.neutralcreatures:steelGolem" :
+	{
+		"excludeFromRandomization" : true
+	}
+}

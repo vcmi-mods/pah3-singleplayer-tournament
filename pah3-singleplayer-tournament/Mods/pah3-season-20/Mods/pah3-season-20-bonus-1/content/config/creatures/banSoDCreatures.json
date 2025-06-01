@@ -1,0 +1,582 @@
+{
+	"core:pikeman" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:halberdier" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:archer" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:marksman" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:griffin" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:royalGriffin" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:swordsman" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:crusader" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:monk" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:zealot" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:cavalier" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:champion" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:angel" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:archangel" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:pixie" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:sprite" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:airElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:stormElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:waterElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:iceElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:fireElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:energyElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:earthElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:magmaElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:psychicElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:magicElemental" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:firebird" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:phoenix" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:troglodyte" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:infernalTroglodyte" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:harpy" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:harpyHag" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:beholder" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:evilEye" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:medusa" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:medusaQueen" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:minotaur" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:minotaurKing" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:manticore" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:scorpicore" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:redDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:blackDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:gnoll" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:gnollMarauder" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:lizardman" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:lizardWarrior" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:serpentFly" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:fireDragonFly" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:basilisk" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:greaterBasilisk" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:gorgon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:mightyGorgon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:wyvern" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:wyvernMonarch" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:hydra" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:chaosHydra" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:imp" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:familiar" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:gog" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:magog" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:hellHound" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:cerberus" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:demon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:hornedDemon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:pitFiend" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:pitLord" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:efreet" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:efreetSultan" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:devil" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:archDevil" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:skeleton" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:skeletonWarrior" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:walkingDead" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:zombieLord" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:wight" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:wraith" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:vampire" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:vampireLord" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:lich" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:powerLich" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:blackKnight" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:dreadKnight" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:boneDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:ghostDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:goldGolem" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:diamondGolem" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:azureDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:crystalDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:fairieDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:rustDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:enchanter" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:sharpshooter" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:halfling" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:peasant" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:boar" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:mummy" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:nomad" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:rogue" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:troll" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:centaur" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:centaurCaptain" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:dwarf" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:battleDwarf" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:woodElf" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:grandElf" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:pegasus" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:silverPegasus" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:dendroidGuard" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:dendroidSoldier" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:unicorn" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:warUnicorn" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:greenDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:goldDragon" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:goblin" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:hobgoblin" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:goblinWolfRider" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:hobgoblinWolfRider" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:orc" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:orcChieftain" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:ogre" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:ogreMage" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:roc" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:thunderbird" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:cyclop" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:cyclopKing" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:behemoth" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:ancientBehemoth" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:gremlin" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:masterGremlin" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:stoneGargoyle" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:obsidianGargoyle" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:ironGolem" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:stoneGolem" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:mage" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:archMage" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:genie" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:masterGenie" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:naga" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:nagaQueen" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:giant" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:titan" :
+	{
+		"excludeFromRandomization" : true
+	},
+	"core:ammoCart" :
+	{
+		"excludeFromRandomization" : false
+	},
+	"core:firstAidTent" :
+	{
+		"excludeFromRandomization" : false
+	},
+	"core:ballista" :
+	{
+		"excludeFromRandomization" : false
+	},
+	"core:arrowTower" :
+	{
+		"excludeFromRandomization" : false
+	}
+}

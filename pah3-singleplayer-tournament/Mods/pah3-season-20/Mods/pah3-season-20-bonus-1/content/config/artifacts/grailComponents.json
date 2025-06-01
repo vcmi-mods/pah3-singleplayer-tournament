@@ -1,0 +1,22 @@
+{
+	"combine-grail:cgEtherElementalsAviary" :
+	{
+		"class" : "TREASURE"
+	},
+	"combine-grail:cgMagnusCoffer" :
+	{
+		"class" : "TREASURE"
+	},
+	"combine-grail:cgPatronOfVenomousFire" :
+	{
+		"class" : "TREASURE"
+	},
+	"combine-grail:cgSirensStar" :
+	{
+		"class" : "TREASURE"
+	},
+	"combine-grail:cgMagicSweaterSutra" :
+	{
+		"class" : "TREASURE"
+	}
+}
