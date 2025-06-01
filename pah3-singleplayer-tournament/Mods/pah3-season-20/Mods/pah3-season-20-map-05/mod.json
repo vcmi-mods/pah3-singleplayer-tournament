@@ -3,7 +3,7 @@
 	"description" : "Submods required for map 5 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>On 200% AI starts with as much resources as a human on 80%. On 130% AI starts with 15k gold like human, instead of 10k.<br>Most of randomness removed:<br>Random Creature and Hero abilities will always trigger.<br>Faerie Dragons always cast Meteor Shower, Enchanters always Haste, Genies always cast Frenzy.<br>Azure Dragons lower enemy Morale by 4 instead of causing Fear. Fearless ability changed into always at least 0 morale.<br>Luck and Molale always trigger.<br>Catapult always hits once. Always hits Wall first without Ballistics, always hits Wall and Towers at Basic, then also Keep on Advanced, then also Gate at Expert.<br>Creatures always do average damage, rounded up to 2 in case od 1-2, otherwise rounded down. Ballista always does 3 damage per attack point instead of 2-3.<br>Summon and Scullte Boat never work without Water Magic, always work with Water Magic, Magic Mirror always works and on Expert is a mass spell.<br>Quicksand and Land Mine are level 5 but fill the entire battlefield.<br>Earthquake destroys all walls.<br>All heroes get +1 Spellpower at level-ups.<br>Deleted heroes start with 0 movement thanks to an extra slow Peasant in their armies.<br>Heroes start with max armies (max troop counts like in pvp-balance mod).<br>Lumiere's Arquebusiers cast only Quicksand. Camera Obscura basically always casts Age, except on hero Midigriva, when it basically always casts Summon Apparition.<br>Resistance and resistance heroes banned (including Hanester from Courtyard). Other heroes unbanned.<br>Scholar with Resistance now gives Necromancy (changed that 1 Scholar on the map). Sir Mullich given to the enemy. Starting army of Elves replaced with Crossbowmen.",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
-	"version" : "20.5",
+	"version" : "20.6",
 	"modType" : "Other",
 	"heroClasses" :
 	[
@@ -90,11 +90,12 @@
 	"changelog" :
 	{
 		"20.0" : [ "initial mod structure for new season" ],
-		"20.5" : [ "Added starting saves" ]
+		"20.5" : [ "Added starting saves" ],
+		"20.6" : [ "Disabled by default after Bonus Round 1 start" ]
 	},
 	"compatibility" :
 	{
 		"min" : "1.6.7"
 	},
-	"keepDisabled" : false
+	"keepDisabled" : true
 }
