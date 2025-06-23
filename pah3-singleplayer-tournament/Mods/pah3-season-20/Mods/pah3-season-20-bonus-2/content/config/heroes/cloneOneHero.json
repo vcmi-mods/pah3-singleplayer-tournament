@@ -1,0 +1,4002 @@
+{
+	"kalafiosteain00" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain01" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain02" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain03" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain04" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain05" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain06" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain07" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain08" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain09" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain10" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain11" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain12" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain13" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain14" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain15" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain16" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain17" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain18" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain19" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain20" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain21" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain22" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain23" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain24" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain25" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain26" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain27" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain28" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain29" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain30" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain31" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain32" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain33" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain34" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain35" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain36" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain37" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain38" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain39" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain40" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain41" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain42" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain43" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain44" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain45" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain46" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain47" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain48" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain49" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain50" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain51" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain52" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain53" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain54" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain55" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain56" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain57" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain58" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain59" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain60" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain61" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain62" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain63" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain64" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain65" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain66" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain67" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain68" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain69" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain70" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain71" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain72" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain73" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain74" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain75" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain76" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain77" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain78" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain79" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain80" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain81" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain82" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain83" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain84" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain85" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain86" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain87" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain88" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain89" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain90" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain91" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain92" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain93" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain94" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain95" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain96" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain97" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain98" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	},
+	"kalafiosteain99" :
+	{
+		"class" : "gardener",
+		"special" : false,
+		"female": false,
+		"texts" :
+		{
+			"name" : "Cauliflowerstein",
+			"biography" : "The one smart guy.",
+			"specialty" :
+			{
+				"tooltip" : "Creature Bonus: Broccoli",
+				"name" : "Broccoli",
+				"description" : "{Broccoli and Broccoli Lord}\r\n\r\nIncreases Speed of any Broccoli or Broccoli Lord by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)."
+			}
+		},
+		"skills" :
+		[
+			{ "skill" : "sorcery", "level" : "basic" },
+			{ "skill" : "wisdom", "level" : "basic" },
+			{ "skill" : "intelligence", "level" : "basic" }
+		],
+		"specialty" :
+		{
+			"creature" : "greenhouse-town:6a"
+		},
+		"spellbook" : [ "dispel" ],
+		"images" :
+		{
+			"specialtySmall" : "heroes/MM Kalafiosteain/spec-small.png",
+			"specialtyLarge" : "heroes/MM Kalafiosteain/spec-large.png",
+			"large" : "heroes/MM Kalafiosteain/portrait-large.png",
+			"small" : "heroes/MM Kalafiosteain/portrait-small.png"
+		},
+		"army" :
+		[
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 },
+			{ "creature" : "greenhouse-town:6a", "min" : 1, "max" : 1 }
+		]
+	}
+}
