@@ -8,7 +8,7 @@
 				"type" : "GENERATE_RESOURCE",
 				"subtype" : "resource.gold",
 				"val" : -1,
-				"propagator" : "PLAYER_PROPAGATOR",//"HERO",
+				"propagator" : "HERO",
 				"propagationUpdater" :
 				{
 					"type" : "TIMES_STACK_SIZE",
@@ -27,7 +27,7 @@
 				"type" : "GENERATE_RESOURCE",
 				"subtype" : "resource.gold",
 				"val" : -2,
-				"propagator" : "PLAYER_PROPAGATOR",//"HERO",
+				"propagator" : "HERO",
 				"propagationUpdater" :
 				{
 					"type" : "TIMES_STACK_SIZE",
@@ -37,7 +37,7 @@
 			}
 		}
 	},
-	"core:griffiin" :
+	"core:griffin" :
 	{
 		"abilities" :
 		{
@@ -46,7 +46,7 @@
 				"type" : "GENERATE_RESOURCE",
 				"subtype" : "resource.gold",
 				"val" : -4,
-				"propagator" : "PLAYER_PROPAGATOR",//"HERO",
+				"propagator" : "HERO",
 				"propagationUpdater" :
 				{
 					"type" : "TIMES_STACK_SIZE",
