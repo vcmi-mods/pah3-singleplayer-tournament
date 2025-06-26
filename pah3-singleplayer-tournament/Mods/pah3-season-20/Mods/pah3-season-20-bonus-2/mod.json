@@ -10,10 +10,6 @@
 		"config/heroes/banAllHeroes.json",
 		"config/heroes/cloneOneHero.json"
 	],
-	"creatures" :
-	[
-		"config/creatures/upkeep.json"
-	],
 	"settings" :
 	{
 		"bonuses" :
@@ -24,6 +20,90 @@
 				{
 					"type" : "VULNERABLE_FROM_BACK",
 					"val" : 50
+				},
+				"upkeep1" :
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : -2,
+					"updater" :
+					{
+						"type" : "TIMES_ARMY_SIZE",
+						"filteredLevel" : 1
+					},
+					"stacking" : ""
+				},
+				"upkeep2" :
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : -4,
+					"updater" :
+					{
+						"type" : "TIMES_ARMY_SIZE",
+						"filteredLevel" : 2
+					},
+					"stacking" : ""
+				},
+				"upkeep3" :
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : -8,
+					"updater" :
+					{
+						"type" : "TIMES_ARMY_SIZE",
+						"filteredLevel" : 3
+					},
+					"stacking" : ""
+				},
+				"upkeep4" :
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : -16,
+					"updater" :
+					{
+						"type" : "TIMES_ARMY_SIZE",
+						"filteredLevel" : 4
+					},
+					"stacking" : ""
+				},
+				"upkeep5" :
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : -32,
+					"updater" :
+					{
+						"type" : "TIMES_ARMY_SIZE",
+						"filteredLevel" : 5
+					},
+					"stacking" : ""
+				},
+				"upkeep6" :
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : -64,
+					"updater" :
+					{
+						"type" : "TIMES_ARMY_SIZE",
+						"filteredLevel" : 6
+					},
+					"stacking" : ""
+				},
+				"upkeep7" :
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : -128,
+					"updater" :
+					{
+						"type" : "TIMES_ARMY_SIZE",
+						"filteredLevel" : 7
+					},
+					"stacking" : ""
 				}
 			}
 		}
