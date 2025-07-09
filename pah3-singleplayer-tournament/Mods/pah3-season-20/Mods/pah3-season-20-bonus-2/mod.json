@@ -1,12 +1,12 @@
 {
 	"name" : "PAH3 s20 Bonus round 2",
-	"description" : "Submods required for Bonus Round 2 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>Transport a Jar of Honey to your starting town to win.<br>Time limit: 2 months on 200%, 3 months on 130%.<br>Honey Palace guards boosted.<br>2 buildings per day in each town allowed.<br>Max 12 heroes active on map per player allowed.<br>Heroes always start with their 2nd and 3rd stack only.<br>Diplo max 50% and only for gold. Special weeks disabled. Neutral armies double each week up to 10k instead of +10%/week up to 4k.<br>Luck and Molale have 1 in a million chance to trigger at +/-1 and +/-2, always trigger at +3 and have 50% chance to trigger at -3.<br>Giant variant of Griffin Conservatories added.",
+	"description" : "Submods required for Bonus Round 2 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>Transport a Jar of Honey to your starting town to win.<br>Time limit: 2 months on 200%, 3 months on 130%.<br>Honey Palace guards boosted.<br>2 buildings per day in each town allowed.<br>Max 12 heroes active on map per player allowed.<br>Heroes always start with their 2nd and 3rd stack only.<br>Diplo max 50% and only for gold. Special weeks disabled.<br>Neutral armies double each week up to 10k instead of +10%/week up to 4k.<br>Luck and Molale have 1 in a million chance to trigger at +/-1 and +/-2, always trigger at +3 and have 50% chance to trigger at -3.<br>Giant variant of Griffin Conservatories added.<br>Expert Dispell works on 1 stack, like Advanced.",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
 	"version" : "20.7",
 	"modType" : "Other",
 	"creatures" : [ "config/creatures/waspOP.json", "config/creatures/giantSpecialties.json" ],
-	"spells" : [ "config/spells/symbiosisWithHive.json" ],
+	"spells" : [ "config/spells/symbiosisWithHive.json", "config/spells/nerfDispel.json" ],
 	"objects" : [ "config/objects/giantCons.json" ],
 	"settings" :
 	{
