@@ -1,0 +1,32 @@
+{
+	"core:giant" :
+	{
+		"abilities" :
+		{
+			"revenge" :
+			{
+				"type" : "HYPNOTIZED"
+			},
+			"failPower" :
+			{
+				"type" : "SPECIFIC_SPELL_POWER", "subtype" : "spell.lightningBolt", "val" : 25
+			},
+			"fail" :
+			{
+				"type" : "ENCHANTED", "subtype" : "spell.lightningBolt", "val" : 3
+				"limiters" :
+				[
+					"noneOf",
+					{
+						"type" : "HAS_ANOTHER_BONUS_LIMITER",
+						"parameters" : [ "LEVEL_SPELL_IMMUNITY" ]
+					},
+					{
+						"type" : "HAS_ANOTHER_BONUS_LIMITER",
+						"parameters" : [ "SPELL_IMMUNITY", "spell.lightningBolt" ]
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspqueen" :
+	{
+		"hitPoints" : 1000000,
+		"abilities" :
+		{
+			"snortImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.deathStare" },
+			"paralyzeImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.paralyze" },
+			"backupRegen" : { "type" : "HP_REGENERATION", "val" : 100000, "valueType" : "BASE_NUMBER" },
+			"protectTheHive" : { "type" : "ENCHANTED", "subtype" : "spell.symbiosishive", "val" : 4, "addInfo" : 1 },
+			"protectionDuration" : { "type" : "CREATURE_ENCHANT_POWER", "val" : 3 }
+			
+		}
+	},
+	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspdrone" :
+	{
+		"abilities" :
+		{
+			"spellPower":
+			{
+				"type": "SPECIFIC_SPELL_POWER",
+				"subtype": "spell.symbiosisqueen",
+				"val": 12500
+			}
+		}
+	}
+}

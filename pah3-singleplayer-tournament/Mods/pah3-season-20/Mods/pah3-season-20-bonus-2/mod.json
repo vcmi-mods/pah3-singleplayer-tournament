@@ -1,0 +1,129 @@
+{
+	"name" : "PAH3 s20 Bonus round 2",
+	"description" : "Submods required for Bonus Round 2 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>Transport a Jar of Honey to your starting town to win.<br>Time limit: 2 months on 200%, 3 months on 130%.<br>Honey Palace guards boosted.<br>2 buildings per day in each town allowed.<br>Max 12 heroes active on map per player allowed.<br>Heroes always start with their 2nd and 3rd stack only.<br>Diplo max 50% and only for gold. Special weeks disabled. Neutral armies double each week up to 10k instead of +10%/week up to 4k.<br>Luck and Molale have 1 in a million chance to trigger at +/-1 and +/-2, always trigger at +3 and have 50% chance to trigger at -3.<br>Giant variant of Griffin Conservatories added.",
+	"author" : "Warzyw647",
+	"contact" : "Warzyw647 on heroes-themed Discords",
+	"version" : "20.7",
+	"modType" : "Other",
+	"creatures" : [ "config/creatures/waspOP.json", "config/creatures/giantSpecialties.json" ],
+	"spells" : [ "config/spells/symbiosisWithHive.json" ],
+	"objects" : [ "config/objects/giantCons.json" ],
+	"settings" :
+	{
+		"heroes" :
+		{
+			"perPlayerOnMapCap" : 12,
+			"perPlayerTotalCap" : 30,
+			"startingStackChances": [ 0, 100, 100]
+		},
+		"towns" :
+		{
+			"buildingsPerTurnCap" : 2
+		},
+		"combat" :
+		{
+			"goodMoraleDice" : [ 1000000, 1000000, 1 ],
+			"badMoraleDice" : [ 1000000, 1000000, 2 ],
+			"goodLuckDice" : [ 1000000, 1000000, 1 ],
+			"badLuckDice" : [ 1000000, 1000000, 2 ]
+		},
+		"creatures" :
+		{
+			"weeklyGrowthPercent" : 100,
+			"weeklyGrowthCap" : 10000,
+			"allowRandomSpecialWeeks" : false,
+			"allowJoiningForFree" : false,
+			"joiningPercentage" : 50
+		}
+	},
+	"depends" :
+	[
+		"greenhouse-town",
+		"new-monsters-pack",
+		"new-monsters-pack.axolotl-creatures-pack",
+		"new-monsters-pack.carpet-whisperers",
+		"new-monsters-pack.doommod",
+		"new-monsters-pack.dwarf-pack",
+		"new-monsters-pack.extra-creature-pack",
+		"new-monsters-pack.flugel",
+		"new-monsters-pack.invisible-man",
+		"new-monsters-pack.kurek-creatures",
+		"new-monsters-pack.kurek-creatures.new-content-for-castle",
+		"new-monsters-pack.kurek-creatures.new-content-for-castle.cherub",
+		"new-monsters-pack.kurek-creatures.new-content-for-dungeon",
+		"new-monsters-pack.kurek-creatures.new-content-for-dungeon.agarspets",
+		"new-monsters-pack.kurek-creatures.new-content-for-dungeon.lurker",
+		"new-monsters-pack.kurek-creatures.new-content-for-fortress",
+		"new-monsters-pack.kurek-creatures.new-content-for-fortress.black-gorgon",
+		"new-monsters-pack.kurek-creatures.new-content-for-neutral",
+		"new-monsters-pack.kurek-creatures.new-content-for-neutral.eagle",
+		"new-monsters-pack.kurek-creatures.new-content-for-neutral.orangedragon",
+		"new-monsters-pack.kurek-creatures.new-content-for-neutral.purpledragon",
+		"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps",
+		"new-monsters-pack.kurek-creatures.new-content-for-neutral.wildgriffin",
+		"new-monsters-pack.kurek-creatures.new-content-for-stronghold",
+		"new-monsters-pack.kurek-creatures.new-content-for-stronghold.bloodeyed_cyclops",
+		"new-monsters-pack.kurek-creatures.new-content-for-stronghold.cyclops_warrior",
+		"new-monsters-pack.land-of-new-towns",
+		"new-monsters-pack.lord-hawk-creatures-pack",
+		"new-monsters-pack.lord-hawk-creatures-pack.dark elemental",
+		"new-monsters-pack.lord-hawk-creatures-pack.man at arms",
+		"new-monsters-pack.lord-hawk-creatures-pack.mountain dwarf",
+		"new-monsters-pack.tok",
+		"new-monsters-pack.tok.more creatures",
+		"new-monsters-pack.tok.more secondary",
+		"new-monsters-pack.wicked-witch",
+		"tides-of-war",
+		"tides-of-war.alternative-creatures",
+		"tides-of-war.artifacts",
+		"tides-of-war.banks",
+		"tides-of-war.heroes",
+		"tides-of-war.neutral-creatures",
+		"tides-of-war.objects",
+		"tides-of-war.skills",
+		"tides-of-war.spells",
+		"tides-of-war.transformationaltar",
+		"immortal-cultivation-heroes",
+		"immortal-cultivation-heroes.artifactsplus",
+		"immortal-cultivation-heroes.artifactsplus.fused",
+		"immortal-cultivation-heroes.l-skills",
+		"immortal-cultivation-heroes.lartifacts",
+		"immortal-cultivation-heroes.lartifacts.l-artifacts+",
+		"immortal-cultivation-heroes.xianheroes",
+		"immortal-cultivation-heroes.xianheroes3",
+		"immortal-cultivation-heroes.xianheros2"
+	],
+	"softDepends" :
+	[
+		"zefix"
+	],
+	"conflicts" :
+	[
+		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-01",
+		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-02",
+		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-03",
+		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-04",
+		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-map-05",
+		"pah3-singleplayer-tournament.pah3-season-20.pah3-season-20-bonus-1",
+		"new-monsters-pack.undeadsphinxes",
+		"extreme-ai",
+		"new-monsters-pack.tok.more heroes.hota heroes",
+		"new-monsters-pack.tok.more heroes.neutral classes",
+		"new-monsters-pack.tok.more heroes.tok heroes",
+		"new-monsters-pack.tok.more heroes.tow heroes",
+		"new-monsters-pack.tok.more heroes.vanilla heroes",
+		"new-monsters-pack.tok.more heroes",
+		"tides-of-war.hota-balance-compatibility-patch",
+		"tides-of-war.lessrandomstart",
+		"hota"
+	],
+	"changelog" :
+	{
+		"20.7" : [ "Added bonus map 2 submod" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.6.7"
+	},
+	"keepDisabled" : false
+}
