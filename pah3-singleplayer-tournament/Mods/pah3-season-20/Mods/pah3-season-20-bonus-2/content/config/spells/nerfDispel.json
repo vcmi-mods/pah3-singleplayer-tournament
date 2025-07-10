@@ -3,7 +3,7 @@
 	{
 		"levels" :
 		{
-			"expert" : { "range" : "0" }
+			"expert" : { "range" : "0-1" }
 		}
 	}
 }

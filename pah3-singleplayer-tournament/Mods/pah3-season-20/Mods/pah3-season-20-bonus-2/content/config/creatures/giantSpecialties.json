@@ -5,15 +5,27 @@
 		{
 			"revenge" :
 			{
-				"type" : "HYPNOTIZED"
+				"type" : "HYPNOTIZED",
+				"limiters" :
+				[
+					"noneOf",
+					{
+						"type" : "HAS_ANOTHER_BONUS_LIMITER",
+						"parameters" : [ "LEVEL_SPELL_IMMUNITY" ]
+					},
+					{
+						"type" : "HAS_ANOTHER_BONUS_LIMITER",
+						"parameters" : [ "SPELL_IMMUNITY", "spell.hypnotize" ]
+					}
+				]
 			},
 			"failPower" :
 			{
-				"type" : "SPECIFIC_SPELL_POWER", "subtype" : "spell.lightningBolt", "val" : 25
+				"type" : "SPECIFIC_SPELL_POWER", "subtype" : "spell.lightningBolt", "val" : 150
 			},
 			"fail" :
 			{
-				"type" : "ENCHANTED", "subtype" : "spell.lightningBolt", "val" : 3
+				"type" : "ENCHANTED", "subtype" : "spell.lightningBolt", "val" : 3,
 				"limiters" :
 				[
 					"noneOf",

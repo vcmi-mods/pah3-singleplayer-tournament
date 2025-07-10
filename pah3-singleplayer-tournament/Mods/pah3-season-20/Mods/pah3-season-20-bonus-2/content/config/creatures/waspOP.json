@@ -1,6 +1,7 @@
 {
 	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspqueen" :
 	{
+		"description": "{Wasp Queen}\r\n\r\nThe Wasp Queen is a rare and powerful entity, the heart and mind of the entire colony. Her unmatched abilities, including summoning wasps, laying eggs, and commanding her army, make her one of the most formidable foes in the realm.\r\n\r\n{gold|Special Abilities:}\r\n{gold|Flight:} Like other wasps, the Queen can fly, evading most attacks, though her true strength lies in defense and summoning guardians.\r\n{gold|Two Additional Retaliations:} The Queen is able to bite and sting while defending herself.\r\n{gold|Strike and Return:} Even though she isn't the fastest type of wasp, her majesty is still able to return to the hive after every strike.\r\n{gold|Venomous Sting 30 percent chance after attack:} Her attacks have a high chance to poison enemies, causing damage over time.\r\n{gold|Armor Piercing 20 percent chance:} The Queen can bypass enemy defenses, dealing enhanced damage.\r\n{gold|Egg Laying:} She can summon Worker Wasps, Sentry Wasps, and Warrior Wasps to bolster the hive's forces.\r\n{gold|Summoning Guards Drones at Battle Start:} At the start of combat, the Queen is surrounded by drones acting as her personal guardians.\r\n{gold|Bloodlust, Swarm, and Berserk before attack:} The Queen can enhance herself or disrupt foes with these spells, ensuring her dominance in battle.\r\n{gold|Pain Mirror Enchant:} The Queen’s striped abdomen is enchanted with Expert Pain Mirror spell, enabling her to reflect 65% of melee damage dealt to her. \r\n{gold|Mind Spell Immunity:} The Queen is immune to all mind-affecting spells, ensuring her hivemind commands cannot be disrupted.\r\n{gold|Poison Immunity:} The Queen is immune to poison, it is her natural protection. \r\n{gold|Acid Immunity:} The Queen is immune to acid, her chitinous armor is fully resistant to that.\r\n{gold|Death Stare Immunity:} The Queen is immune to Death Stare, her big wasp eyes are not compatible wit hthat curse.\r\n{gold|Paralysis Immunity:} The Queen is immune to paralysis, obligations to the Hive don't allow her to take a break for such a trivial reason.\r\n{gold|Regeneration:} The Queen regenerates 100 thousand health per turn with the seer willpower to keep leading the hive even if she's not feeling well.\r\n{gold|Mass Wasp Swarm curse:} The Queen curses all her enemies to suffer from Mass Wasp Swarm at start of each of their turns. This way she commands the tiniest wasp stingers, but they act very often.\r\n{gold|Protect the Hive:} The Queen makes all other members of the Hive invulnerable for 50 turns and renews this protection every turn foras long as she lives. The Queen protects!\r\n",
 		"hitPoints" : 1000000,
 		"abilities" :
 		{
@@ -8,8 +9,16 @@
 			"paralyzeImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.paralyze" },
 			"backupRegen" : { "type" : "HP_REGENERATION", "val" : 100000, "valueType" : "BASE_NUMBER" },
 			"protectTheHive" : { "type" : "ENCHANTED", "subtype" : "spell.symbiosishive", "val" : 4, "addInfo" : 1 },
-			"protectionDuration" : { "type" : "CREATURE_ENCHANT_POWER", "val" : 3 }
-			
+			"massWaspSwarm" :
+			{
+				"type" : "ENCHANTED", "subtype" : "new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:spell.waspswarmability", "val" : 4, "addInfo" : 1,
+				"propagator" : "BATTLE_WIDE",
+				"propagationUpdater" : "BONUS_OWNER_UPDATER",
+				"limiters" : [ "OPPOSITE_SIDE" ]
+			},
+			"protectionDuration" : { "type" : "CREATURE_ENCHANT_POWER", "val" : 3 },
+			"poisonImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.poison" },
+			"acidImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.acidBreathDamage", }
 		}
 	},
 	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspdrone" :
