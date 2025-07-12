@@ -1,6 +1,6 @@
 {
 	"name" : "PAH3 s20 Bonus round 2",
-	"description" : "Submods required for Bonus Round 2 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>Transport a Jar of Honey to a certain town (guess based on the towns' names).<br>Time limit: 2 months on 200%, 3 months on 130%.<br>Honey Palace guards boosted.<br>2 buildings per day in each town allowed.<br>Max 12 heroes active on map per player allowed.<br>Heroes always start with their 2nd and 3rd stack only.<br>Diplo max 50% and only for gold. Special weeks disabled.<br>Neutral armies double each week up to 10k instead of +10%/week up to 4k.<br>Luck and Molale have 1 in a million chance to trigger at +/-1 and +/-2, always trigger at +3 and have 50% chance to trigger at -3.<br>Giant variant of Griffin Conservatories added.<br>Expert Dispell has limited range, like Fireball.<br>Giants' specialty boosted. Giants given a second secret specialty called Revenge.<br>Wyvern Monarch Poison and Ghost Dragon Age chances boosted to 50%.",
+	"description" : "Submods required for Bonus Round 2 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>Transport a Jar of Honey to a certain town (guess based on the towns' names).<br>Time limit: 2 months on 200%, 3 months on 130%.<br>Honey Palace guards boosted.<br>2 buildings per day in each town allowed.<br>Max 12 heroes active on map per player allowed.<br>Heroes always start with their 2nd and 3rd stack only.<br>Diplo max 50% and only for gold. Special weeks disabled.<br>Neutral armies double each week up to 10k instead of +10%/week up to 4k.<br>Luck and Molale have 1 in a million chance to trigger at +/-1 and +/-2, always trigger at +3 and have 50% chance to trigger at -3.<br>Giant variant of Griffin Conservatories added.<br>Expert Dispell has limited range, like Fireball.<br>Giants' specialty boosted. Giants given a second secret specialty called Revenge.<br>Wyvern Monarch Poison and Ghost Dragon Age chances boosted to 50%.<br>Includes a tiny test map for getting familiar with the Wasp Queen and the maps used to create the starting saves, for your convenience.",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
 	"version" : "20.7",
@@ -44,8 +44,6 @@
 		"new-monsters-pack.carpet-whisperers",
 		"new-monsters-pack.doommod",
 		"new-monsters-pack.dwarf-pack",
-		"new-monsters-pack.extra-creature-pack",
-		"new-monsters-pack.flugel",
 		"new-monsters-pack.invisible-man",
 		"new-monsters-pack.kurek-creatures",
 		"new-monsters-pack.kurek-creatures.new-content-for-castle",
@@ -84,14 +82,13 @@
 		"tides-of-war.spells",
 		"tides-of-war.transformationaltar",
 		"immortal-cultivation-heroes",
-		"immortal-cultivation-heroes.artifactsplus",
-		"immortal-cultivation-heroes.artifactsplus.fused",
 		"immortal-cultivation-heroes.l-skills",
 		"immortal-cultivation-heroes.lartifacts",
 		"immortal-cultivation-heroes.lartifacts.l-artifacts+",
 		"immortal-cultivation-heroes.xianheroes",
 		"immortal-cultivation-heroes.xianheroes3",
-		"immortal-cultivation-heroes.xianheros2"
+		"immortal-cultivation-heroes.xianheros2",
+		"tavern-invite"
 	],
 	"softDepends" :
 	[
@@ -113,9 +110,20 @@
 		"new-monsters-pack.tok.more heroes.tow heroes",
 		"new-monsters-pack.tok.more heroes.vanilla heroes",
 		"new-monsters-pack.tok.more heroes",
+		"new-monsters-pack.extra-creature-pack",
+		"new-monsters-pack.flugel",
+		"immortal-cultivation-heroes.artifactsplus",
+		"immortal-cultivation-heroes.artifactsplus.fused",
 		"tides-of-war.hota-balance-compatibility-patch",
 		"tides-of-war.lessrandomstart",
-		"hota"
+		"hota",
+		"andruids-expansion",
+		"new-old-spells-plus",
+		"new-summon-spells",
+		"moon-artifacts",
+		"ruins-town",
+		"ark-town",
+		"combine-grail"
 	],
 	"changelog" :
 	{
