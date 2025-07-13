@@ -1,0 +1,57 @@
+{
+
+	"core:wyvernMonarch" :
+	{
+		"abilities" :
+		{
+			"canFly" :
+			{
+				"type" : "FLYING"
+			},
+			"poison" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.poison",
+				"val" : 50
+			}
+		}
+	},
+		"core:ghostDragon" :
+		{
+			"abilities" :
+			{
+				"undead" :
+				{
+					"type" : "UNDEAD"
+				},
+				"dragon" :
+				{
+					"type" : "DRAGON_NATURE"
+				},
+				"canFly" :
+				{
+					"type" : "FLYING"
+				},
+				"age" :
+				{
+					"type" : "SPELL_AFTER_ATTACK",
+					"subtype" : "spell.age",
+					"val" : 50
+				},
+				"decreaseMorale" :
+				{
+					"type" : "MORALE",
+					"val" : -1,
+					"stacking" : "Undead Dragons",
+					"propagator": "BATTLE_WIDE",
+					"propagationUpdater" : "BONUS_OWNER_UPDATER",
+					"limiters" : [ "OPPOSITE_SIDE" ]
+				},
+				"KING_1" : // Will be affected by Slayer with no expertise
+				{
+					"type" : "KING",
+					"val" : 0
+				}
+			}
+		}
+}

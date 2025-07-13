@@ -1,0 +1,7 @@
+{
+	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspswarmability" :
+	{
+		"type": "ability",
+		"name" : "Mass Wasp Swarm"
+	}
+}
