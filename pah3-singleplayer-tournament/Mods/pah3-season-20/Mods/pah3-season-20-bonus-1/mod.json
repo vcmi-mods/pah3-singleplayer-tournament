@@ -3,7 +3,7 @@
 	"description" : "Submods required for Bonus Round 1 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>SoD creatures don't appear as Random Monsters.<br>Luck and Molale have 1 in a million chance to trigger at +/-1 and +/-2, always trigger at +3 and have 50% chance to trigger at -3.<br>Grail components moved to Treasure class.<br>Time limit is 1 year.<br>Experience gained tripled.<br>2 buildings per day in towns.<br>Map also included.<br>Submods also added to dependencies.",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
-	"version" : "20.6",
+	"version" : "20.7",
 	"modType" : "Other",
 	"creatures" :
 	[
@@ -177,11 +177,12 @@
 	],
 	"changelog" :
 	{
-		"20.6" : [ "Added bonus map 1 submod" ]
+		"20.6" : [ "Added bonus map 1 submod" ],
+		"20.7" : [ "Disabled by default after Bonus Round 2 start" ]
 	},
 	"compatibility" :
 	{
 		"min" : "1.6.7"
 	},
-	"keepDisabled" : false
+	"keepDisabled" : true
 }
