@@ -1,6 +1,6 @@
 {
-	"name" : "PAH3 s20 Bonus round 2",
-	"description" : "Submods required for Bonus Round 2 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>All heroes banned except for one.<br>Added multiple copies of that one hero (one-hero mode).<br>Everyone does 50% more damage from behind.<br>Upkeep cost: every creature costs some gold each day. Level 1 creatures cost 1 gold each, level 2 creatures cost 2 gold, level 3 creatures cost 4 etc. Level 7 creatures cost 64 gold each.",
+	"name" : "PAH3 s20 Bonus round 3",
+	"description" : "Submods required for Bonus Round 3 of season 20 of the tournament and starting saves, more info in the pinned messages on this channel: https://discord.com/channels/298106089885401090/1096866734142656522 on the vcmi Discord server: https://discord.gg/chBT42V and in Polish in this thread in the Behemoth's Lair: http://imperium.heroes.net.pl/temat/5479<br>All heroes banned except for one.<br>Added multiple copies of that one hero (one-hero mode).<br>Everyone does 50% more damage from behind.<br>Almost everyone does a reverse-charge due to short breath caused by lack of exercises, -5% damage per tile travelled befre the strike. Exceptions: creatures who already have a natural Jousting ability, like Cavalier.<br>Upkeep cost: every creature costs some gold each day. Level 1 creatures cost 1 gold each, level 2 creatures cost 2 gold, level 3 creatures cost 4 etc. Level 7 creatures cost 64 gold each.",
 	"author" : "Warzyw647",
 	"contact" : "Warzyw647 on heroes-themed Discords",
 	"version" : "20.8",
@@ -20,6 +20,19 @@
 				{
 					"type" : "VULNERABLE_FROM_BACK",
 					"val" : 50
+				},
+				"shortBreath" :
+				{
+					"type": "JOUSTING",
+					"val": -5,
+					"limiters" :
+					[
+						"noneOf",
+						{
+							"type" : "HAS_ANOTHER_BONUS_LIMITER",
+							"parameters" : [ "JOUSTING", { "type" : "CREATURE_ABILITY" } ]
+						}
+					]
 				},
 				"upkeep1" :
 				{
