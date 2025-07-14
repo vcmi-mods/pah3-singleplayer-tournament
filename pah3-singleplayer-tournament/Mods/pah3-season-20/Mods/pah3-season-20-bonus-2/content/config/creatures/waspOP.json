@@ -18,7 +18,7 @@
 			},
 			"protectionDuration" : { "type" : "CREATURE_ENCHANT_POWER", "val" : 3 },
 			"poisonImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.poison" },
-			"acidImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.acidBreathDamage", }
+			"acidImmunity" : { "type" : "SPELL_IMMUNITY", "subtype" : "spell.acidBreathDamage" }
 		}
 	},
 	"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:waspdrone" :
