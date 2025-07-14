@@ -1,0 +1,93 @@
+{
+	"symbiosishive" :
+	{
+		"type" : "ability",
+		"name" : "Symbiosis with Hive",
+		"school" :
+		{
+			"air" : false,
+			"earth" : false,
+			"fire" : false,
+			"water" : false
+		},
+		"level" : 5,
+		"power" : 10,
+		"defaultGainChance" : 0,
+		"gainChance" : {},
+		"animation" :
+		{
+			"affect" : [ "wasps/spsymbiosisqueen.def" ]
+		},
+		"flags" :
+		{
+			"positive" : true
+		},
+		"targetCondition" :
+		{
+			"anyOf" :
+			{
+				"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspdrone" : "absolute",
+				"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspworker" : "absolute",
+				"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspsentry" : "absolute",
+				"new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspwarrior" : "absolute"
+			}
+		},
+		"canCastWithoutSkip" : true,
+		"graphics" :
+		{
+			"iconBook" : "wasps/nullqueen.png",
+			"iconEffect" : "wasps/cureQueen_iconEffect.png",
+			"iconScenarioBonus" : "wasps/nullqueen.png",
+			"iconScroll" : "wasps/nullqueen.png"
+		},
+		"sounds" :
+		{
+			"cast" :"waspsounds/symbiosisqueen.wav"
+		},
+		"targetType" : "CREATURE",
+		"levels" :
+		{
+			"base" :
+			{
+				"range" : "X",
+				"cost" : 0,
+				"aiValue" : 20,
+				"power" : 10,
+				"description" : "{Symbiosis}\r\n\r\nAllows Queen to protect her Hive as long as she lives.",
+				"effects" :
+				{
+					"theQueenProtects" :
+					{
+						"type" :"INVINCIBLE",
+						"duration" : "N_TURNS",
+						"limiters" :
+						[
+							"anyOf",
+							{
+								"type":"CREATURE_TYPE_LIMITER",
+								"parameters": [ "new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspdrone", true ]
+							},
+							{
+								"type":"CREATURE_TYPE_LIMITER",
+								"parameters": [ "new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspworker", true ]
+							},
+							{
+								"type":"CREATURE_TYPE_LIMITER",
+								"parameters": [ "new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspsentry", true ]
+							},
+							{
+								"type":"CREATURE_TYPE_LIMITER",
+								"parameters": [ "new-monsters-pack.kurek-creatures.new-content-for-neutral.wasps:creature.waspwarrior", true ]
+							}
+						]
+					}
+				},
+				"targetModifier" : { "smart" : true }
+			},
+			"none" : {},
+			"basic" : {},
+			"advanced" : {},
+			"expert" : {}
+		}
+	}
+}

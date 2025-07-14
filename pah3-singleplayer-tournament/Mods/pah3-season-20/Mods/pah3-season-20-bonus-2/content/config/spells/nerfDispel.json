@@ -1,0 +1,9 @@
+{
+	"core:dispel" :
+	{
+		"levels" :
+		{
+			"expert" : { "range" : "0-1" }
+		}
+	}
+}
